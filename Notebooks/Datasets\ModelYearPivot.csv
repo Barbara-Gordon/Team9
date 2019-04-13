@@ -1,0 +1,2129 @@
+,Type,Maker,Model,Years,Sales
+0,HEV,Acura,ILX,1999,0.0
+1,HEV,Acura,ILX,2000,0.0
+2,HEV,Acura,ILX,2001,0.0
+3,HEV,Acura,ILX,2002,0.0
+4,HEV,Acura,ILX,2003,0.0
+5,HEV,Acura,ILX,2004,0.0
+6,HEV,Acura,ILX,2005,0.0
+7,HEV,Acura,ILX,2006,0.0
+8,HEV,Acura,ILX,2007,0.0
+9,HEV,Acura,ILX,2008,0.0
+10,HEV,Acura,ILX,2009,0.0
+11,HEV,Acura,ILX,2010,0.0
+12,HEV,Acura,ILX,2011,0.0
+13,HEV,Acura,ILX,2012,972.0
+14,HEV,Acura,ILX,2013,1461.0
+15,HEV,Acura,ILX,2014,379.0
+16,HEV,Acura,ILX,2015,22.0
+17,HEV,Acura,ILX,2016,1.0
+18,HEV,Acura,ILX,2017,0.0
+19,HEV,Acura,MDX,1999,0.0
+20,HEV,Acura,MDX,2000,0.0
+21,HEV,Acura,MDX,2001,0.0
+22,HEV,Acura,MDX,2002,0.0
+23,HEV,Acura,MDX,2003,0.0
+24,HEV,Acura,MDX,2004,0.0
+25,HEV,Acura,MDX,2005,0.0
+26,HEV,Acura,MDX,2006,0.0
+27,HEV,Acura,MDX,2007,0.0
+28,HEV,Acura,MDX,2008,0.0
+29,HEV,Acura,MDX,2009,0.0
+30,HEV,Acura,MDX,2010,0.0
+31,HEV,Acura,MDX,2011,0.0
+32,HEV,Acura,MDX,2012,0.0
+33,HEV,Acura,MDX,2013,0.0
+34,HEV,Acura,MDX,2014,0.0
+35,HEV,Acura,MDX,2015,0.0
+36,HEV,Acura,MDX,2016,0.0
+37,HEV,Acura,MDX,2017,1807.0
+38,HEV,Acura,NSX,1999,0.0
+39,HEV,Acura,NSX,2000,0.0
+40,HEV,Acura,NSX,2001,0.0
+41,HEV,Acura,NSX,2002,0.0
+42,HEV,Acura,NSX,2003,0.0
+43,HEV,Acura,NSX,2004,0.0
+44,HEV,Acura,NSX,2005,0.0
+45,HEV,Acura,NSX,2006,0.0
+46,HEV,Acura,NSX,2007,0.0
+47,HEV,Acura,NSX,2008,0.0
+48,HEV,Acura,NSX,2009,0.0
+49,HEV,Acura,NSX,2010,0.0
+50,HEV,Acura,NSX,2011,0.0
+51,HEV,Acura,NSX,2012,0.0
+52,HEV,Acura,NSX,2013,0.0
+53,HEV,Acura,NSX,2014,0.0
+54,HEV,Acura,NSX,2015,0.0
+55,HEV,Acura,NSX,2016,267.0
+56,HEV,Acura,NSX,2017,581.0
+57,HEV,Acura,RLX,1999,0.0
+58,HEV,Acura,RLX,2000,0.0
+59,HEV,Acura,RLX,2001,0.0
+60,HEV,Acura,RLX,2002,0.0
+61,HEV,Acura,RLX,2003,0.0
+62,HEV,Acura,RLX,2004,0.0
+63,HEV,Acura,RLX,2005,0.0
+64,HEV,Acura,RLX,2006,0.0
+65,HEV,Acura,RLX,2007,0.0
+66,HEV,Acura,RLX,2008,0.0
+67,HEV,Acura,RLX,2009,0.0
+68,HEV,Acura,RLX,2010,0.0
+69,HEV,Acura,RLX,2011,0.0
+70,HEV,Acura,RLX,2012,0.0
+71,HEV,Acura,RLX,2013,0.0
+72,HEV,Acura,RLX,2014,133.0
+73,HEV,Acura,RLX,2015,250.0
+74,HEV,Acura,RLX,2016,199.0
+75,HEV,Acura,RLX,2017,292.0
+76,HEV,Audi,Q5 Hybrid,1999,0.0
+77,HEV,Audi,Q5 Hybrid,2000,0.0
+78,HEV,Audi,Q5 Hybrid,2001,0.0
+79,HEV,Audi,Q5 Hybrid,2002,0.0
+80,HEV,Audi,Q5 Hybrid,2003,0.0
+81,HEV,Audi,Q5 Hybrid,2004,0.0
+82,HEV,Audi,Q5 Hybrid,2005,0.0
+83,HEV,Audi,Q5 Hybrid,2006,0.0
+84,HEV,Audi,Q5 Hybrid,2007,0.0
+85,HEV,Audi,Q5 Hybrid,2008,0.0
+86,HEV,Audi,Q5 Hybrid,2009,0.0
+87,HEV,Audi,Q5 Hybrid,2010,0.0
+88,HEV,Audi,Q5 Hybrid,2011,0.0
+89,HEV,Audi,Q5 Hybrid,2012,270.0
+90,HEV,Audi,Q5 Hybrid,2013,854.0
+91,HEV,Audi,Q5 Hybrid,2014,283.0
+92,HEV,Audi,Q5 Hybrid,2015,97.0
+93,HEV,Audi,Q5 Hybrid,2016,18.0
+94,HEV,Audi,Q5 Hybrid,2017,0.0
+95,HEV,BMW,ActiveHybrid 3 (335ih),1999,0.0
+96,HEV,BMW,ActiveHybrid 3 (335ih),2000,0.0
+97,HEV,BMW,ActiveHybrid 3 (335ih),2001,0.0
+98,HEV,BMW,ActiveHybrid 3 (335ih),2002,0.0
+99,HEV,BMW,ActiveHybrid 3 (335ih),2003,0.0
+100,HEV,BMW,ActiveHybrid 3 (335ih),2004,0.0
+101,HEV,BMW,ActiveHybrid 3 (335ih),2005,0.0
+102,HEV,BMW,ActiveHybrid 3 (335ih),2006,0.0
+103,HEV,BMW,ActiveHybrid 3 (335ih),2007,0.0
+104,HEV,BMW,ActiveHybrid 3 (335ih),2008,0.0
+105,HEV,BMW,ActiveHybrid 3 (335ih),2009,0.0
+106,HEV,BMW,ActiveHybrid 3 (335ih),2010,0.0
+107,HEV,BMW,ActiveHybrid 3 (335ih),2011,0.0
+108,HEV,BMW,ActiveHybrid 3 (335ih),2012,402.0
+109,HEV,BMW,ActiveHybrid 3 (335ih),2013,905.0
+110,HEV,BMW,ActiveHybrid 3 (335ih),2014,151.0
+111,HEV,BMW,ActiveHybrid 3 (335ih),2015,30.0
+112,HEV,BMW,ActiveHybrid 3 (335ih),2016,0.0
+113,HEV,BMW,ActiveHybrid 3 (335ih),2017,0.0
+114,HEV,BMW,ActiveHybrid 5 (535ih),1999,0.0
+115,HEV,BMW,ActiveHybrid 5 (535ih),2000,0.0
+116,HEV,BMW,ActiveHybrid 5 (535ih),2001,0.0
+117,HEV,BMW,ActiveHybrid 5 (535ih),2002,0.0
+118,HEV,BMW,ActiveHybrid 5 (535ih),2003,0.0
+119,HEV,BMW,ActiveHybrid 5 (535ih),2004,0.0
+120,HEV,BMW,ActiveHybrid 5 (535ih),2005,0.0
+121,HEV,BMW,ActiveHybrid 5 (535ih),2006,0.0
+122,HEV,BMW,ActiveHybrid 5 (535ih),2007,0.0
+123,HEV,BMW,ActiveHybrid 5 (535ih),2008,0.0
+124,HEV,BMW,ActiveHybrid 5 (535ih),2009,0.0
+125,HEV,BMW,ActiveHybrid 5 (535ih),2010,0.0
+126,HEV,BMW,ActiveHybrid 5 (535ih),2011,0.0
+127,HEV,BMW,ActiveHybrid 5 (535ih),2012,403.0
+128,HEV,BMW,ActiveHybrid 5 (535ih),2013,520.0
+129,HEV,BMW,ActiveHybrid 5 (535ih),2014,112.0
+130,HEV,BMW,ActiveHybrid 5 (535ih),2015,25.0
+131,HEV,BMW,ActiveHybrid 5 (535ih),2016,18.0
+132,HEV,BMW,ActiveHybrid 5 (535ih),2017,0.0
+133,HEV,BMW,ActiveHybrid 7,1999,0.0
+134,HEV,BMW,ActiveHybrid 7,2000,0.0
+135,HEV,BMW,ActiveHybrid 7,2001,0.0
+136,HEV,BMW,ActiveHybrid 7,2002,0.0
+137,HEV,BMW,ActiveHybrid 7,2003,0.0
+138,HEV,BMW,ActiveHybrid 7,2004,0.0
+139,HEV,BMW,ActiveHybrid 7,2005,0.0
+140,HEV,BMW,ActiveHybrid 7,2006,0.0
+141,HEV,BMW,ActiveHybrid 7,2007,0.0
+142,HEV,BMW,ActiveHybrid 7,2008,0.0
+143,HEV,BMW,ActiveHybrid 7,2009,0.0
+144,HEV,BMW,ActiveHybrid 7,2010,102.0
+145,HEV,BMW,ActiveHybrid 7,2011,338.0
+146,HEV,BMW,ActiveHybrid 7,2012,230.0
+147,HEV,BMW,ActiveHybrid 7,2013,31.0
+148,HEV,BMW,ActiveHybrid 7,2014,45.0
+149,HEV,BMW,ActiveHybrid 7,2015,12.0
+150,HEV,BMW,ActiveHybrid 7,2016,46.0
+151,HEV,BMW,ActiveHybrid 7,2017,0.0
+152,HEV,BMW,X6,1999,0.0
+153,HEV,BMW,X6,2000,0.0
+154,HEV,BMW,X6,2001,0.0
+155,HEV,BMW,X6,2002,0.0
+156,HEV,BMW,X6,2003,0.0
+157,HEV,BMW,X6,2004,0.0
+158,HEV,BMW,X6,2005,0.0
+159,HEV,BMW,X6,2006,0.0
+160,HEV,BMW,X6,2007,0.0
+161,HEV,BMW,X6,2008,0.0
+162,HEV,BMW,X6,2009,0.0
+163,HEV,BMW,X6,2010,205.0
+164,HEV,BMW,X6,2011,43.0
+165,HEV,BMW,X6,2012,3.0
+166,HEV,BMW,X6,2013,0.0
+167,HEV,BMW,X6,2014,0.0
+168,HEV,BMW,X6,2015,0.0
+169,HEV,BMW,X6,2016,0.0
+170,HEV,BMW,X6,2017,0.0
+171,HEV,Buick,LaCrosse,1999,0.0
+172,HEV,Buick,LaCrosse,2000,0.0
+173,HEV,Buick,LaCrosse,2001,0.0
+174,HEV,Buick,LaCrosse,2002,0.0
+175,HEV,Buick,LaCrosse,2003,0.0
+176,HEV,Buick,LaCrosse,2004,0.0
+177,HEV,Buick,LaCrosse,2005,0.0
+178,HEV,Buick,LaCrosse,2006,0.0
+179,HEV,Buick,LaCrosse,2007,0.0
+180,HEV,Buick,LaCrosse,2008,0.0
+181,HEV,Buick,LaCrosse,2009,0.0
+182,HEV,Buick,LaCrosse,2010,0.0
+183,HEV,Buick,LaCrosse,2011,1801.0
+184,HEV,Buick,LaCrosse,2012,12010.0
+185,HEV,Buick,LaCrosse,2013,7133.0
+186,HEV,Buick,LaCrosse,2014,7353.0
+187,HEV,Buick,LaCrosse,2015,4042.0
+188,HEV,Buick,LaCrosse,2016,765.0
+189,HEV,Buick,LaCrosse,2017,506.0
+190,HEV,Buick,Regal,1999,0.0
+191,HEV,Buick,Regal,2000,0.0
+192,HEV,Buick,Regal,2001,0.0
+193,HEV,Buick,Regal,2002,0.0
+194,HEV,Buick,Regal,2003,0.0
+195,HEV,Buick,Regal,2004,0.0
+196,HEV,Buick,Regal,2005,0.0
+197,HEV,Buick,Regal,2006,0.0
+198,HEV,Buick,Regal,2007,0.0
+199,HEV,Buick,Regal,2008,0.0
+200,HEV,Buick,Regal,2009,0.0
+201,HEV,Buick,Regal,2010,0.0
+202,HEV,Buick,Regal,2011,123.0
+203,HEV,Buick,Regal,2012,2564.0
+204,HEV,Buick,Regal,2013,2893.0
+205,HEV,Buick,Regal,2014,662.0
+206,HEV,Buick,Regal,2015,186.0
+207,HEV,Buick,Regal,2016,45.0
+208,HEV,Buick,Regal,2017,6.0
+209,HEV,Cadillac,Escalade,1999,0.0
+210,HEV,Cadillac,Escalade,2000,0.0
+211,HEV,Cadillac,Escalade,2001,0.0
+212,HEV,Cadillac,Escalade,2002,0.0
+213,HEV,Cadillac,Escalade,2003,0.0
+214,HEV,Cadillac,Escalade,2004,0.0
+215,HEV,Cadillac,Escalade,2005,0.0
+216,HEV,Cadillac,Escalade,2006,0.0
+217,HEV,Cadillac,Escalade,2007,0.0
+218,HEV,Cadillac,Escalade,2008,801.0
+219,HEV,Cadillac,Escalade,2009,1958.0
+220,HEV,Cadillac,Escalade,2010,1210.0
+221,HEV,Cadillac,Escalade,2011,819.0
+222,HEV,Cadillac,Escalade,2012,708.0
+223,HEV,Cadillac,Escalade,2013,372.0
+224,HEV,Cadillac,Escalade,2014,41.0
+225,HEV,Cadillac,Escalade,2015,7.0
+226,HEV,Cadillac,Escalade,2016,0.0
+227,HEV,Cadillac,Escalade,2017,0.0
+228,HEV,Chevrolet,Impala Hybrid,1999,0.0
+229,HEV,Chevrolet,Impala Hybrid,2000,0.0
+230,HEV,Chevrolet,Impala Hybrid,2001,0.0
+231,HEV,Chevrolet,Impala Hybrid,2002,0.0
+232,HEV,Chevrolet,Impala Hybrid,2003,0.0
+233,HEV,Chevrolet,Impala Hybrid,2004,0.0
+234,HEV,Chevrolet,Impala Hybrid,2005,0.0
+235,HEV,Chevrolet,Impala Hybrid,2006,0.0
+236,HEV,Chevrolet,Impala Hybrid,2007,0.0
+237,HEV,Chevrolet,Impala Hybrid,2008,0.0
+238,HEV,Chevrolet,Impala Hybrid,2009,0.0
+239,HEV,Chevrolet,Impala Hybrid,2010,0.0
+240,HEV,Chevrolet,Impala Hybrid,2011,0.0
+241,HEV,Chevrolet,Impala Hybrid,2012,0.0
+242,HEV,Chevrolet,Impala Hybrid,2013,51.0
+243,HEV,Chevrolet,Impala Hybrid,2014,565.0
+244,HEV,Chevrolet,Impala Hybrid,2015,272.0
+245,HEV,Chevrolet,Impala Hybrid,2016,35.0
+246,HEV,Chevrolet,Impala Hybrid,2017,1.0
+247,HEV,Chevrolet,Malibu Hybrid,1999,0.0
+248,HEV,Chevrolet,Malibu Hybrid,2000,0.0
+249,HEV,Chevrolet,Malibu Hybrid,2001,0.0
+250,HEV,Chevrolet,Malibu Hybrid,2002,0.0
+251,HEV,Chevrolet,Malibu Hybrid,2003,0.0
+252,HEV,Chevrolet,Malibu Hybrid,2004,0.0
+253,HEV,Chevrolet,Malibu Hybrid,2005,0.0
+254,HEV,Chevrolet,Malibu Hybrid,2006,0.0
+255,HEV,Chevrolet,Malibu Hybrid,2007,0.0
+256,HEV,Chevrolet,Malibu Hybrid,2008,2093.0
+257,HEV,Chevrolet,Malibu Hybrid,2009,4162.0
+258,HEV,Chevrolet,Malibu Hybrid,2010,405.0
+259,HEV,Chevrolet,Malibu Hybrid,2011,19.0
+260,HEV,Chevrolet,Malibu Hybrid,2012,16664.0
+261,HEV,Chevrolet,Malibu Hybrid,2013,13779.0
+262,HEV,Chevrolet,Malibu Hybrid,2014,1018.0
+263,HEV,Chevrolet,Malibu Hybrid,2015,59.0
+264,HEV,Chevrolet,Malibu Hybrid,2016,4335.0
+265,HEV,Chevrolet,Malibu Hybrid,2017,4452.0
+266,HEV,Chevrolet,Sierra/Silverado,1999,0.0
+267,HEV,Chevrolet,Sierra/Silverado,2000,0.0
+268,HEV,Chevrolet,Sierra/Silverado,2001,0.0
+269,HEV,Chevrolet,Sierra/Silverado,2002,0.0
+270,HEV,Chevrolet,Sierra/Silverado,2003,0.0
+271,HEV,Chevrolet,Sierra/Silverado,2004,0.0
+272,HEV,Chevrolet,Sierra/Silverado,2005,0.0
+273,HEV,Chevrolet,Sierra/Silverado,2006,0.0
+274,HEV,Chevrolet,Sierra/Silverado,2007,0.0
+275,HEV,Chevrolet,Sierra/Silverado,2008,0.0
+276,HEV,Chevrolet,Sierra/Silverado,2009,1598.0
+277,HEV,Chevrolet,Sierra/Silverado,2010,1960.0
+278,HEV,Chevrolet,Sierra/Silverado,2011,1001.0
+279,HEV,Chevrolet,Sierra/Silverado,2012,469.0
+280,HEV,Chevrolet,Sierra/Silverado,2013,104.0
+281,HEV,Chevrolet,Sierra/Silverado,2014,24.0
+282,HEV,Chevrolet,Sierra/Silverado,2015,2.0
+283,HEV,Chevrolet,Sierra/Silverado,2016,0.0
+284,HEV,Chevrolet,Sierra/Silverado,2017,0.0
+285,HEV,Chevrolet,Tahoe,1999,0.0
+286,HEV,Chevrolet,Tahoe,2000,0.0
+287,HEV,Chevrolet,Tahoe,2001,0.0
+288,HEV,Chevrolet,Tahoe,2002,0.0
+289,HEV,Chevrolet,Tahoe,2003,0.0
+290,HEV,Chevrolet,Tahoe,2004,0.0
+291,HEV,Chevrolet,Tahoe,2005,0.0
+292,HEV,Chevrolet,Tahoe,2006,0.0
+293,HEV,Chevrolet,Tahoe,2007,0.0
+294,HEV,Chevrolet,Tahoe,2008,3745.0
+295,HEV,Chevrolet,Tahoe,2009,3300.0
+296,HEV,Chevrolet,Tahoe,2010,1426.0
+297,HEV,Chevrolet,Tahoe,2011,519.0
+298,HEV,Chevrolet,Tahoe,2012,533.0
+299,HEV,Chevrolet,Tahoe,2013,376.0
+300,HEV,Chevrolet,Tahoe,2014,65.0
+301,HEV,Chevrolet,Tahoe,2015,8.0
+302,HEV,Chevrolet,Tahoe,2016,0.0
+303,HEV,Chevrolet,Tahoe,2017,0.0
+304,HEV,Chrysler,Aspen,1999,0.0
+305,HEV,Chrysler,Aspen,2000,0.0
+306,HEV,Chrysler,Aspen,2001,0.0
+307,HEV,Chrysler,Aspen,2002,0.0
+308,HEV,Chrysler,Aspen,2003,0.0
+309,HEV,Chrysler,Aspen,2004,0.0
+310,HEV,Chrysler,Aspen,2005,0.0
+311,HEV,Chrysler,Aspen,2006,0.0
+312,HEV,Chrysler,Aspen,2007,0.0
+313,HEV,Chrysler,Aspen,2008,46.0
+314,HEV,Chrysler,Aspen,2009,33.0
+315,HEV,Chrysler,Aspen,2010,0.0
+316,HEV,Chrysler,Aspen,2011,0.0
+317,HEV,Chrysler,Aspen,2012,0.0
+318,HEV,Chrysler,Aspen,2013,0.0
+319,HEV,Chrysler,Aspen,2014,0.0
+320,HEV,Chrysler,Aspen,2015,0.0
+321,HEV,Chrysler,Aspen,2016,0.0
+322,HEV,Chrysler,Aspen,2017,0.0
+323,HEV,Dodge,Durango,1999,0.0
+324,HEV,Dodge,Durango,2000,0.0
+325,HEV,Dodge,Durango,2001,0.0
+326,HEV,Dodge,Durango,2002,0.0
+327,HEV,Dodge,Durango,2003,0.0
+328,HEV,Dodge,Durango,2004,0.0
+329,HEV,Dodge,Durango,2005,0.0
+330,HEV,Dodge,Durango,2006,0.0
+331,HEV,Dodge,Durango,2007,0.0
+332,HEV,Dodge,Durango,2008,0.0
+333,HEV,Dodge,Durango,2009,9.0
+334,HEV,Dodge,Durango,2010,0.0
+335,HEV,Dodge,Durango,2011,0.0
+336,HEV,Dodge,Durango,2012,0.0
+337,HEV,Dodge,Durango,2013,0.0
+338,HEV,Dodge,Durango,2014,0.0
+339,HEV,Dodge,Durango,2015,0.0
+340,HEV,Dodge,Durango,2016,0.0
+341,HEV,Dodge,Durango,2017,0.0
+342,HEV,Ford,C-Max Hybrid,1999,0.0
+343,HEV,Ford,C-Max Hybrid,2000,0.0
+344,HEV,Ford,C-Max Hybrid,2001,0.0
+345,HEV,Ford,C-Max Hybrid,2002,0.0
+346,HEV,Ford,C-Max Hybrid,2003,0.0
+347,HEV,Ford,C-Max Hybrid,2004,0.0
+348,HEV,Ford,C-Max Hybrid,2005,0.0
+349,HEV,Ford,C-Max Hybrid,2006,0.0
+350,HEV,Ford,C-Max Hybrid,2007,0.0
+351,HEV,Ford,C-Max Hybrid,2008,0.0
+352,HEV,Ford,C-Max Hybrid,2009,0.0
+353,HEV,Ford,C-Max Hybrid,2010,0.0
+354,HEV,Ford,C-Max Hybrid,2011,0.0
+355,HEV,Ford,C-Max Hybrid,2012,10935.0
+356,HEV,Ford,C-Max Hybrid,2013,28056.0
+357,HEV,Ford,C-Max Hybrid,2014,19162.0
+358,HEV,Ford,C-Max Hybrid,2015,14177.0
+359,HEV,Ford,C-Max Hybrid,2016,11877.0
+360,HEV,Ford,C-Max Hybrid,2017,10221.0
+361,HEV,Ford,Escape,1999,0.0
+362,HEV,Ford,Escape,2000,0.0
+363,HEV,Ford,Escape,2001,0.0
+364,HEV,Ford,Escape,2002,0.0
+365,HEV,Ford,Escape,2003,0.0
+366,HEV,Ford,Escape,2004,2993.0
+367,HEV,Ford,Escape,2005,18797.0
+368,HEV,Ford,Escape,2006,20149.0
+369,HEV,Ford,Escape,2007,21386.0
+370,HEV,Ford,Escape,2008,17173.0
+371,HEV,Ford,Escape,2009,14787.0
+372,HEV,Ford,Escape,2010,11182.0
+373,HEV,Ford,Escape,2011,10089.0
+374,HEV,Ford,Escape,2012,1440.0
+375,HEV,Ford,Escape,2013,0.0
+376,HEV,Ford,Escape,2014,0.0
+377,HEV,Ford,Escape,2015,0.0
+378,HEV,Ford,Escape,2016,0.0
+379,HEV,Ford,Escape,2017,0.0
+380,HEV,Ford,Fusion,1999,0.0
+381,HEV,Ford,Fusion,2000,0.0
+382,HEV,Ford,Fusion,2001,0.0
+383,HEV,Ford,Fusion,2002,0.0
+384,HEV,Ford,Fusion,2003,0.0
+385,HEV,Ford,Fusion,2004,0.0
+386,HEV,Ford,Fusion,2005,0.0
+387,HEV,Ford,Fusion,2006,0.0
+388,HEV,Ford,Fusion,2007,0.0
+389,HEV,Ford,Fusion,2008,0.0
+390,HEV,Ford,Fusion,2009,15554.0
+391,HEV,Ford,Fusion,2010,20816.0
+392,HEV,Ford,Fusion,2011,11286.0
+393,HEV,Ford,Fusion,2012,14100.0
+394,HEV,Ford,Fusion,2013,37270.0
+395,HEV,Ford,Fusion,2014,35425.0
+396,HEV,Ford,Fusion,2015,24681.0
+397,HEV,Ford,Fusion,2016,33648.0
+398,HEV,Ford,Fusion,2017,57474.0
+399,HEV,GMC,Sierra,1999,0.0
+400,HEV,GMC,Sierra,2000,0.0
+401,HEV,GMC,Sierra,2001,0.0
+402,HEV,GMC,Sierra,2002,0.0
+403,HEV,GMC,Sierra,2003,0.0
+404,HEV,GMC,Sierra,2004,0.0
+405,HEV,GMC,Sierra,2005,0.0
+406,HEV,GMC,Sierra,2006,0.0
+407,HEV,GMC,Sierra,2007,0.0
+408,HEV,GMC,Sierra,2008,0.0
+409,HEV,GMC,Sierra,2009,0.0
+410,HEV,GMC,Sierra,2010,433.0
+411,HEV,GMC,Sierra,2011,164.0
+412,HEV,GMC,Sierra,2012,471.0
+413,HEV,GMC,Sierra,2013,65.0
+414,HEV,GMC,Sierra,2014,6.0
+415,HEV,GMC,Sierra,2015,1.0
+416,HEV,GMC,Sierra,2016,0.0
+417,HEV,GMC,Sierra,2017,6680.0
+418,HEV,GMC,Yukon Hybrid,1999,0.0
+419,HEV,GMC,Yukon Hybrid,2000,0.0
+420,HEV,GMC,Yukon Hybrid,2001,0.0
+421,HEV,GMC,Yukon Hybrid,2002,0.0
+422,HEV,GMC,Yukon Hybrid,2003,0.0
+423,HEV,GMC,Yukon Hybrid,2004,0.0
+424,HEV,GMC,Yukon Hybrid,2005,0.0
+425,HEV,GMC,Yukon Hybrid,2006,0.0
+426,HEV,GMC,Yukon Hybrid,2007,0.0
+427,HEV,GMC,Yukon Hybrid,2008,1610.0
+428,HEV,GMC,Yukon Hybrid,2009,1933.0
+429,HEV,GMC,Yukon Hybrid,2010,1221.0
+430,HEV,GMC,Yukon Hybrid,2011,598.0
+431,HEV,GMC,Yukon Hybrid,2012,560.0
+432,HEV,GMC,Yukon Hybrid,2013,288.0
+433,HEV,GMC,Yukon Hybrid,2014,31.0
+434,HEV,GMC,Yukon Hybrid,2015,10.0
+435,HEV,GMC,Yukon Hybrid,2016,0.0
+436,HEV,GMC,Yukon Hybrid,2017,0.0
+437,HEV,Honda,Accord,1999,0.0
+438,HEV,Honda,Accord,2000,0.0
+439,HEV,Honda,Accord,2001,0.0
+440,HEV,Honda,Accord,2002,0.0
+441,HEV,Honda,Accord,2003,0.0
+442,HEV,Honda,Accord,2004,1061.0
+443,HEV,Honda,Accord,2005,16826.0
+444,HEV,Honda,Accord,2006,5598.0
+445,HEV,Honda,Accord,2007,3405.0
+446,HEV,Honda,Accord,2008,196.0
+447,HEV,Honda,Accord,2009,0.0
+448,HEV,Honda,Accord,2010,0.0
+449,HEV,Honda,Accord,2011,0.0
+450,HEV,Honda,Accord,2012,0.0
+451,HEV,Honda,Accord,2013,996.0
+452,HEV,Honda,Accord,2014,13977.0
+453,HEV,Honda,Accord,2015,11065.0
+454,HEV,Honda,Accord,2016,9179.0
+455,HEV,Honda,Accord,2017,22008.0
+456,HEV,Honda,CR-Z,1999,0.0
+457,HEV,Honda,CR-Z,2000,0.0
+458,HEV,Honda,CR-Z,2001,0.0
+459,HEV,Honda,CR-Z,2002,0.0
+460,HEV,Honda,CR-Z,2003,0.0
+461,HEV,Honda,CR-Z,2004,0.0
+462,HEV,Honda,CR-Z,2005,0.0
+463,HEV,Honda,CR-Z,2006,0.0
+464,HEV,Honda,CR-Z,2007,0.0
+465,HEV,Honda,CR-Z,2008,0.0
+466,HEV,Honda,CR-Z,2009,0.0
+467,HEV,Honda,CR-Z,2010,5249.0
+468,HEV,Honda,CR-Z,2011,11330.0
+469,HEV,Honda,CR-Z,2012,4192.0
+470,HEV,Honda,CR-Z,2013,4550.0
+471,HEV,Honda,CR-Z,2014,3562.0
+472,HEV,Honda,CR-Z,2015,3073.0
+473,HEV,Honda,CR-Z,2016,2338.0
+474,HEV,Honda,CR-Z,2017,705.0
+475,HEV,Honda,Civic,1999,0.0
+476,HEV,Honda,Civic,2000,0.0
+477,HEV,Honda,Civic,2001,0.0
+478,HEV,Honda,Civic,2002,13700.0
+479,HEV,Honda,Civic,2003,21800.0
+480,HEV,Honda,Civic,2004,25571.0
+481,HEV,Honda,Civic,2005,25864.0
+482,HEV,Honda,Civic,2006,31251.0
+483,HEV,Honda,Civic,2007,32575.0
+484,HEV,Honda,Civic,2008,31297.0
+485,HEV,Honda,Civic,2009,15119.0
+486,HEV,Honda,Civic,2010,7336.0
+487,HEV,Honda,Civic,2011,4703.0
+488,HEV,Honda,Civic,2012,7156.0
+489,HEV,Honda,Civic,2013,7719.0
+490,HEV,Honda,Civic,2014,5070.0
+491,HEV,Honda,Civic,2015,4887.0
+492,HEV,Honda,Civic,2016,896.0
+493,HEV,Honda,Civic,2017,65.0
+494,HEV,Honda,Insight,1999,17.0
+495,HEV,Honda,Insight,2000,3788.0
+496,HEV,Honda,Insight,2001,4726.0
+497,HEV,Honda,Insight,2002,2216.0
+498,HEV,Honda,Insight,2003,1200.0
+499,HEV,Honda,Insight,2004,583.0
+500,HEV,Honda,Insight,2005,666.0
+501,HEV,Honda,Insight,2006,722.0
+502,HEV,Honda,Insight,2007,0.0
+503,HEV,Honda,Insight,2008,0.0
+504,HEV,Honda,Insight,2009,20572.0
+505,HEV,Honda,Insight,2010,20962.0
+506,HEV,Honda,Insight,2011,15549.0
+507,HEV,Honda,Insight,2012,5846.0
+508,HEV,Honda,Insight,2013,4802.0
+509,HEV,Honda,Insight,2014,3965.0
+510,HEV,Honda,Insight,2015,1458.0
+511,HEV,Honda,Insight,2016,75.0
+512,HEV,Honda,Insight,2017,3.0
+513,HEV,Hyundai,Ioniq Hybrid,1999,0.0
+514,HEV,Hyundai,Ioniq Hybrid,2000,0.0
+515,HEV,Hyundai,Ioniq Hybrid,2001,0.0
+516,HEV,Hyundai,Ioniq Hybrid,2002,0.0
+517,HEV,Hyundai,Ioniq Hybrid,2003,0.0
+518,HEV,Hyundai,Ioniq Hybrid,2004,0.0
+519,HEV,Hyundai,Ioniq Hybrid,2005,0.0
+520,HEV,Hyundai,Ioniq Hybrid,2006,0.0
+521,HEV,Hyundai,Ioniq Hybrid,2007,0.0
+522,HEV,Hyundai,Ioniq Hybrid,2008,0.0
+523,HEV,Hyundai,Ioniq Hybrid,2009,0.0
+524,HEV,Hyundai,Ioniq Hybrid,2010,0.0
+525,HEV,Hyundai,Ioniq Hybrid,2011,0.0
+526,HEV,Hyundai,Ioniq Hybrid,2012,0.0
+527,HEV,Hyundai,Ioniq Hybrid,2013,0.0
+528,HEV,Hyundai,Ioniq Hybrid,2014,0.0
+529,HEV,Hyundai,Ioniq Hybrid,2015,0.0
+530,HEV,Hyundai,Ioniq Hybrid,2016,0.0
+531,HEV,Hyundai,Ioniq Hybrid,2017,10766.0
+532,HEV,Hyundai,Sonata,1999,0.0
+533,HEV,Hyundai,Sonata,2000,0.0
+534,HEV,Hyundai,Sonata,2001,0.0
+535,HEV,Hyundai,Sonata,2002,0.0
+536,HEV,Hyundai,Sonata,2003,0.0
+537,HEV,Hyundai,Sonata,2004,0.0
+538,HEV,Hyundai,Sonata,2005,0.0
+539,HEV,Hyundai,Sonata,2006,0.0
+540,HEV,Hyundai,Sonata,2007,0.0
+541,HEV,Hyundai,Sonata,2008,0.0
+542,HEV,Hyundai,Sonata,2009,0.0
+543,HEV,Hyundai,Sonata,2010,0.0
+544,HEV,Hyundai,Sonata,2011,17366.0
+545,HEV,Hyundai,Sonata,2012,20754.0
+546,HEV,Hyundai,Sonata,2013,21559.0
+547,HEV,Hyundai,Sonata,2014,21052.0
+548,HEV,Hyundai,Sonata,2015,19908.0
+549,HEV,Hyundai,Sonata,2016,18961.0
+550,HEV,Hyundai,Sonata,2017,10338.0
+551,HEV,Infiniti,M35h/Q70,1999,0.0
+552,HEV,Infiniti,M35h/Q70,2000,0.0
+553,HEV,Infiniti,M35h/Q70,2001,0.0
+554,HEV,Infiniti,M35h/Q70,2002,0.0
+555,HEV,Infiniti,M35h/Q70,2003,0.0
+556,HEV,Infiniti,M35h/Q70,2004,0.0
+557,HEV,Infiniti,M35h/Q70,2005,0.0
+558,HEV,Infiniti,M35h/Q70,2006,0.0
+559,HEV,Infiniti,M35h/Q70,2007,0.0
+560,HEV,Infiniti,M35h/Q70,2008,0.0
+561,HEV,Infiniti,M35h/Q70,2009,0.0
+562,HEV,Infiniti,M35h/Q70,2010,0.0
+563,HEV,Infiniti,M35h/Q70,2011,378.0
+564,HEV,Infiniti,M35h/Q70,2012,691.0
+565,HEV,Infiniti,M35h/Q70,2013,475.0
+566,HEV,Infiniti,M35h/Q70,2014,180.0
+567,HEV,Infiniti,M35h/Q70,2015,176.0
+568,HEV,Infiniti,M35h/Q70,2016,118.0
+569,HEV,Infiniti,M35h/Q70,2017,58.0
+570,HEV,Infiniti,Q50,1999,0.0
+571,HEV,Infiniti,Q50,2000,0.0
+572,HEV,Infiniti,Q50,2001,0.0
+573,HEV,Infiniti,Q50,2002,0.0
+574,HEV,Infiniti,Q50,2003,0.0
+575,HEV,Infiniti,Q50,2004,0.0
+576,HEV,Infiniti,Q50,2005,0.0
+577,HEV,Infiniti,Q50,2006,0.0
+578,HEV,Infiniti,Q50,2007,0.0
+579,HEV,Infiniti,Q50,2008,0.0
+580,HEV,Infiniti,Q50,2009,0.0
+581,HEV,Infiniti,Q50,2010,0.0
+582,HEV,Infiniti,Q50,2011,0.0
+583,HEV,Infiniti,Q50,2012,0.0
+584,HEV,Infiniti,Q50,2013,307.0
+585,HEV,Infiniti,Q50,2014,3456.0
+586,HEV,Infiniti,Q50,2015,4012.0
+587,HEV,Infiniti,Q50,2016,1998.0
+588,HEV,Infiniti,Q50,2017,870.0
+589,HEV,Infiniti,QX60,1999,0.0
+590,HEV,Infiniti,QX60,2000,0.0
+591,HEV,Infiniti,QX60,2001,0.0
+592,HEV,Infiniti,QX60,2002,0.0
+593,HEV,Infiniti,QX60,2003,0.0
+594,HEV,Infiniti,QX60,2004,0.0
+595,HEV,Infiniti,QX60,2005,0.0
+596,HEV,Infiniti,QX60,2006,0.0
+597,HEV,Infiniti,QX60,2007,0.0
+598,HEV,Infiniti,QX60,2008,0.0
+599,HEV,Infiniti,QX60,2009,0.0
+600,HEV,Infiniti,QX60,2010,0.0
+601,HEV,Infiniti,QX60,2011,0.0
+602,HEV,Infiniti,QX60,2012,0.0
+603,HEV,Infiniti,QX60,2013,676.0
+604,HEV,Infiniti,QX60,2014,1678.0
+605,HEV,Infiniti,QX60,2015,2356.0
+606,HEV,Infiniti,QX60,2016,1114.0
+607,HEV,Infiniti,QX60,2017,298.0
+608,HEV,Kia,Niro Hybrid,1999,0.0
+609,HEV,Kia,Niro Hybrid,2000,0.0
+610,HEV,Kia,Niro Hybrid,2001,0.0
+611,HEV,Kia,Niro Hybrid,2002,0.0
+612,HEV,Kia,Niro Hybrid,2003,0.0
+613,HEV,Kia,Niro Hybrid,2004,0.0
+614,HEV,Kia,Niro Hybrid,2005,0.0
+615,HEV,Kia,Niro Hybrid,2006,0.0
+616,HEV,Kia,Niro Hybrid,2007,0.0
+617,HEV,Kia,Niro Hybrid,2008,0.0
+618,HEV,Kia,Niro Hybrid,2009,0.0
+619,HEV,Kia,Niro Hybrid,2010,0.0
+620,HEV,Kia,Niro Hybrid,2011,0.0
+621,HEV,Kia,Niro Hybrid,2012,0.0
+622,HEV,Kia,Niro Hybrid,2013,0.0
+623,HEV,Kia,Niro Hybrid,2014,0.0
+624,HEV,Kia,Niro Hybrid,2015,0.0
+625,HEV,Kia,Niro Hybrid,2016,0.0
+626,HEV,Kia,Niro Hybrid,2017,27195.0
+627,HEV,Kia,Optima,1999,0.0
+628,HEV,Kia,Optima,2000,0.0
+629,HEV,Kia,Optima,2001,0.0
+630,HEV,Kia,Optima,2002,0.0
+631,HEV,Kia,Optima,2003,0.0
+632,HEV,Kia,Optima,2004,0.0
+633,HEV,Kia,Optima,2005,0.0
+634,HEV,Kia,Optima,2006,0.0
+635,HEV,Kia,Optima,2007,0.0
+636,HEV,Kia,Optima,2008,0.0
+637,HEV,Kia,Optima,2009,0.0
+638,HEV,Kia,Optima,2010,0.0
+639,HEV,Kia,Optima,2011,0.0
+640,HEV,Kia,Optima,2012,10245.0
+641,HEV,Kia,Optima,2013,13919.0
+642,HEV,Kia,Optima,2014,13776.0
+643,HEV,Kia,Optima,2015,11492.0
+644,HEV,Kia,Optima,2016,6142.0
+645,HEV,Kia,Optima,2017,5589.0
+646,HEV,Lexus,CT 200h,1999,0.0
+647,HEV,Lexus,CT 200h,2000,0.0
+648,HEV,Lexus,CT 200h,2001,0.0
+649,HEV,Lexus,CT 200h,2002,0.0
+650,HEV,Lexus,CT 200h,2003,0.0
+651,HEV,Lexus,CT 200h,2004,0.0
+652,HEV,Lexus,CT 200h,2005,0.0
+653,HEV,Lexus,CT 200h,2006,0.0
+654,HEV,Lexus,CT 200h,2007,0.0
+655,HEV,Lexus,CT 200h,2008,0.0
+656,HEV,Lexus,CT 200h,2009,0.0
+657,HEV,Lexus,CT 200h,2010,0.0
+658,HEV,Lexus,CT 200h,2011,14381.0
+659,HEV,Lexus,CT 200h,2012,17831.0
+660,HEV,Lexus,CT 200h,2013,15071.0
+661,HEV,Lexus,CT 200h,2014,17673.0
+662,HEV,Lexus,CT 200h,2015,14657.0
+663,HEV,Lexus,CT 200h,2016,8903.0
+664,HEV,Lexus,CT 200h,2017,4682.0
+665,HEV,Lexus,ES Hybrid,1999,0.0
+666,HEV,Lexus,ES Hybrid,2000,0.0
+667,HEV,Lexus,ES Hybrid,2001,0.0
+668,HEV,Lexus,ES Hybrid,2002,0.0
+669,HEV,Lexus,ES Hybrid,2003,0.0
+670,HEV,Lexus,ES Hybrid,2004,0.0
+671,HEV,Lexus,ES Hybrid,2005,0.0
+672,HEV,Lexus,ES Hybrid,2006,0.0
+673,HEV,Lexus,ES Hybrid,2007,0.0
+674,HEV,Lexus,ES Hybrid,2008,0.0
+675,HEV,Lexus,ES Hybrid,2009,0.0
+676,HEV,Lexus,ES Hybrid,2010,0.0
+677,HEV,Lexus,ES Hybrid,2011,0.0
+678,HEV,Lexus,ES Hybrid,2012,7027.0
+679,HEV,Lexus,ES Hybrid,2013,16562.0
+680,HEV,Lexus,ES Hybrid,2014,14837.0
+681,HEV,Lexus,ES Hybrid,2015,11241.0
+682,HEV,Lexus,ES Hybrid,2016,7645.0
+683,HEV,Lexus,ES Hybrid,2017,5394.0
+684,HEV,Lexus,GS 450h,1999,0.0
+685,HEV,Lexus,GS 450h,2000,0.0
+686,HEV,Lexus,GS 450h,2001,0.0
+687,HEV,Lexus,GS 450h,2002,0.0
+688,HEV,Lexus,GS 450h,2003,0.0
+689,HEV,Lexus,GS 450h,2004,0.0
+690,HEV,Lexus,GS 450h,2005,0.0
+691,HEV,Lexus,GS 450h,2006,1784.0
+692,HEV,Lexus,GS 450h,2007,1645.0
+693,HEV,Lexus,GS 450h,2008,678.0
+694,HEV,Lexus,GS 450h,2009,469.0
+695,HEV,Lexus,GS 450h,2010,305.0
+696,HEV,Lexus,GS 450h,2011,282.0
+697,HEV,Lexus,GS 450h,2012,615.0
+698,HEV,Lexus,GS 450h,2013,522.0
+699,HEV,Lexus,GS 450h,2014,183.0
+700,HEV,Lexus,GS 450h,2015,91.0
+701,HEV,Lexus,GS 450h,2016,70.0
+702,HEV,Lexus,GS 450h,2017,50.0
+703,HEV,Lexus,HS 250h,1999,0.0
+704,HEV,Lexus,HS 250h,2000,0.0
+705,HEV,Lexus,HS 250h,2001,0.0
+706,HEV,Lexus,HS 250h,2002,0.0
+707,HEV,Lexus,HS 250h,2003,0.0
+708,HEV,Lexus,HS 250h,2004,0.0
+709,HEV,Lexus,HS 250h,2005,0.0
+710,HEV,Lexus,HS 250h,2006,0.0
+711,HEV,Lexus,HS 250h,2007,0.0
+712,HEV,Lexus,HS 250h,2008,0.0
+713,HEV,Lexus,HS 250h,2009,6699.0
+714,HEV,Lexus,HS 250h,2010,10663.0
+715,HEV,Lexus,HS 250h,2011,2864.0
+716,HEV,Lexus,HS 250h,2012,650.0
+717,HEV,Lexus,HS 250h,2013,4.0
+718,HEV,Lexus,HS 250h,2014,0.0
+719,HEV,Lexus,HS 250h,2015,0.0
+720,HEV,Lexus,HS 250h,2016,0.0
+721,HEV,Lexus,HS 250h,2017,8.0
+722,HEV,Lexus,LC 500h,1999,0.0
+723,HEV,Lexus,LC 500h,2000,0.0
+724,HEV,Lexus,LC 500h,2001,0.0
+725,HEV,Lexus,LC 500h,2002,0.0
+726,HEV,Lexus,LC 500h,2003,0.0
+727,HEV,Lexus,LC 500h,2004,0.0
+728,HEV,Lexus,LC 500h,2005,0.0
+729,HEV,Lexus,LC 500h,2006,0.0
+730,HEV,Lexus,LC 500h,2007,0.0
+731,HEV,Lexus,LC 500h,2008,0.0
+732,HEV,Lexus,LC 500h,2009,0.0
+733,HEV,Lexus,LC 500h,2010,0.0
+734,HEV,Lexus,LC 500h,2011,0.0
+735,HEV,Lexus,LC 500h,2012,0.0
+736,HEV,Lexus,LC 500h,2013,0.0
+737,HEV,Lexus,LC 500h,2014,0.0
+738,HEV,Lexus,LC 500h,2015,0.0
+739,HEV,Lexus,LC 500h,2016,0.0
+740,HEV,Lexus,LC 500h,2017,118.0
+741,HEV,Lexus,LS600h / LS500h,1999,0.0
+742,HEV,Lexus,LS600h / LS500h,2000,0.0
+743,HEV,Lexus,LS600h / LS500h,2001,0.0
+744,HEV,Lexus,LS600h / LS500h,2002,0.0
+745,HEV,Lexus,LS600h / LS500h,2003,0.0
+746,HEV,Lexus,LS600h / LS500h,2004,0.0
+747,HEV,Lexus,LS600h / LS500h,2005,0.0
+748,HEV,Lexus,LS600h / LS500h,2006,0.0
+749,HEV,Lexus,LS600h / LS500h,2007,937.0
+750,HEV,Lexus,LS600h / LS500h,2008,907.0
+751,HEV,Lexus,LS600h / LS500h,2009,258.0
+752,HEV,Lexus,LS600h / LS500h,2010,129.0
+753,HEV,Lexus,LS600h / LS500h,2011,85.0
+754,HEV,Lexus,LS600h / LS500h,2012,54.0
+755,HEV,Lexus,LS600h / LS500h,2013,115.0
+756,HEV,Lexus,LS600h / LS500h,2014,65.0
+757,HEV,Lexus,LS600h / LS500h,2015,47.0
+758,HEV,Lexus,LS600h / LS500h,2016,40.0
+759,HEV,Lexus,LS600h / LS500h,2017,0.0
+760,HEV,Lexus,NX Hybrid,1999,0.0
+761,HEV,Lexus,NX Hybrid,2000,0.0
+762,HEV,Lexus,NX Hybrid,2001,0.0
+763,HEV,Lexus,NX Hybrid,2002,0.0
+764,HEV,Lexus,NX Hybrid,2003,0.0
+765,HEV,Lexus,NX Hybrid,2004,0.0
+766,HEV,Lexus,NX Hybrid,2005,0.0
+767,HEV,Lexus,NX Hybrid,2006,0.0
+768,HEV,Lexus,NX Hybrid,2007,0.0
+769,HEV,Lexus,NX Hybrid,2008,0.0
+770,HEV,Lexus,NX Hybrid,2009,0.0
+771,HEV,Lexus,NX Hybrid,2010,0.0
+772,HEV,Lexus,NX Hybrid,2011,0.0
+773,HEV,Lexus,NX Hybrid,2012,0.0
+774,HEV,Lexus,NX Hybrid,2013,0.0
+775,HEV,Lexus,NX Hybrid,2014,354.0
+776,HEV,Lexus,NX Hybrid,2015,2573.0
+777,HEV,Lexus,NX Hybrid,2016,2842.0
+778,HEV,Lexus,NX Hybrid,2017,3323.0
+779,HEV,Lexus,RX400h (RX450h),1999,0.0
+780,HEV,Lexus,RX400h (RX450h),2000,0.0
+781,HEV,Lexus,RX400h (RX450h),2001,0.0
+782,HEV,Lexus,RX400h (RX450h),2002,0.0
+783,HEV,Lexus,RX400h (RX450h),2003,0.0
+784,HEV,Lexus,RX400h (RX450h),2004,0.0
+785,HEV,Lexus,RX400h (RX450h),2005,20674.0
+786,HEV,Lexus,RX400h (RX450h),2006,20161.0
+787,HEV,Lexus,RX400h (RX450h),2007,17291.0
+788,HEV,Lexus,RX400h (RX450h),2008,15200.0
+789,HEV,Lexus,RX400h (RX450h),2009,14464.0
+790,HEV,Lexus,RX400h (RX450h),2010,15119.0
+791,HEV,Lexus,RX400h (RX450h),2011,10723.0
+792,HEV,Lexus,RX400h (RX450h),2012,12223.0
+793,HEV,Lexus,RX400h (RX450h),2013,11307.0
+794,HEV,Lexus,RX400h (RX450h),2014,9351.0
+795,HEV,Lexus,RX400h (RX450h),2015,7722.0
+796,HEV,Lexus,RX400h (RX450h),2016,8561.0
+797,HEV,Lexus,RX400h (RX450h),2017,8568.0
+798,HEV,Lincoln,MKZ Hybrid,1999,0.0
+799,HEV,Lincoln,MKZ Hybrid,2000,0.0
+800,HEV,Lincoln,MKZ Hybrid,2001,0.0
+801,HEV,Lincoln,MKZ Hybrid,2002,0.0
+802,HEV,Lincoln,MKZ Hybrid,2003,0.0
+803,HEV,Lincoln,MKZ Hybrid,2004,0.0
+804,HEV,Lincoln,MKZ Hybrid,2005,0.0
+805,HEV,Lincoln,MKZ Hybrid,2006,0.0
+806,HEV,Lincoln,MKZ Hybrid,2007,0.0
+807,HEV,Lincoln,MKZ Hybrid,2008,0.0
+808,HEV,Lincoln,MKZ Hybrid,2009,0.0
+809,HEV,Lincoln,MKZ Hybrid,2010,1192.0
+810,HEV,Lincoln,MKZ Hybrid,2011,5739.0
+811,HEV,Lincoln,MKZ Hybrid,2012,6067.0
+812,HEV,Lincoln,MKZ Hybrid,2013,7469.0
+813,HEV,Lincoln,MKZ Hybrid,2014,10033.0
+814,HEV,Lincoln,MKZ Hybrid,2015,8403.0
+815,HEV,Lincoln,MKZ Hybrid,2016,7219.0
+816,HEV,Lincoln,MKZ Hybrid,2017,5931.0
+817,HEV,Mazda,Tribute,1999,0.0
+818,HEV,Mazda,Tribute,2000,0.0
+819,HEV,Mazda,Tribute,2001,0.0
+820,HEV,Mazda,Tribute,2002,0.0
+821,HEV,Mazda,Tribute,2003,0.0
+822,HEV,Mazda,Tribute,2004,0.0
+823,HEV,Mazda,Tribute,2005,0.0
+824,HEV,Mazda,Tribute,2006,0.0
+825,HEV,Mazda,Tribute,2007,0.0
+826,HEV,Mazda,Tribute,2008,0.0
+827,HEV,Mazda,Tribute,2009,0.0
+828,HEV,Mazda,Tribute,2010,570.0
+829,HEV,Mazda,Tribute,2011,484.0
+830,HEV,Mazda,Tribute,2012,90.0
+831,HEV,Mazda,Tribute,2013,0.0
+832,HEV,Mazda,Tribute,2014,0.0
+833,HEV,Mazda,Tribute,2015,0.0
+834,HEV,Mazda,Tribute,2016,0.0
+835,HEV,Mazda,Tribute,2017,0.0
+836,HEV,Mercedes,E400H,1999,0.0
+837,HEV,Mercedes,E400H,2000,0.0
+838,HEV,Mercedes,E400H,2001,0.0
+839,HEV,Mercedes,E400H,2002,0.0
+840,HEV,Mercedes,E400H,2003,0.0
+841,HEV,Mercedes,E400H,2004,0.0
+842,HEV,Mercedes,E400H,2005,0.0
+843,HEV,Mercedes,E400H,2006,0.0
+844,HEV,Mercedes,E400H,2007,0.0
+845,HEV,Mercedes,E400H,2008,0.0
+846,HEV,Mercedes,E400H,2009,0.0
+847,HEV,Mercedes,E400H,2010,0.0
+848,HEV,Mercedes,E400H,2011,0.0
+849,HEV,Mercedes,E400H,2012,0.0
+850,HEV,Mercedes,E400H,2013,282.0
+851,HEV,Mercedes,E400H,2014,158.0
+852,HEV,Mercedes,E400H,2015,53.0
+853,HEV,Mercedes,E400H,2016,14.0
+854,HEV,Mercedes,E400H,2017,2.0
+855,HEV,Mercedes,ML450h,1999,0.0
+856,HEV,Mercedes,ML450h,2000,0.0
+857,HEV,Mercedes,ML450h,2001,0.0
+858,HEV,Mercedes,ML450h,2002,0.0
+859,HEV,Mercedes,ML450h,2003,0.0
+860,HEV,Mercedes,ML450h,2004,0.0
+861,HEV,Mercedes,ML450h,2005,0.0
+862,HEV,Mercedes,ML450h,2006,0.0
+863,HEV,Mercedes,ML450h,2007,0.0
+864,HEV,Mercedes,ML450h,2008,0.0
+865,HEV,Mercedes,ML450h,2009,0.0
+866,HEV,Mercedes,ML450h,2010,627.0
+867,HEV,Mercedes,ML450h,2011,1.0
+868,HEV,Mercedes,ML450h,2012,22.0
+869,HEV,Mercedes,ML450h,2013,11.0
+870,HEV,Mercedes,ML450h,2014,20.0
+871,HEV,Mercedes,ML450h,2015,10.0
+872,HEV,Mercedes,ML450h,2016,1.0
+873,HEV,Mercedes,ML450h,2017,0.0
+874,HEV,Mercedes,S400HV,1999,0.0
+875,HEV,Mercedes,S400HV,2000,0.0
+876,HEV,Mercedes,S400HV,2001,0.0
+877,HEV,Mercedes,S400HV,2002,0.0
+878,HEV,Mercedes,S400HV,2003,0.0
+879,HEV,Mercedes,S400HV,2004,0.0
+880,HEV,Mercedes,S400HV,2005,0.0
+881,HEV,Mercedes,S400HV,2006,0.0
+882,HEV,Mercedes,S400HV,2007,0.0
+883,HEV,Mercedes,S400HV,2008,0.0
+884,HEV,Mercedes,S400HV,2009,0.0
+885,HEV,Mercedes,S400HV,2010,801.0
+886,HEV,Mercedes,S400HV,2011,309.0
+887,HEV,Mercedes,S400HV,2012,121.0
+888,HEV,Mercedes,S400HV,2013,64.0
+889,HEV,Mercedes,S400HV,2014,10.0
+890,HEV,Mercedes,S400HV,2015,1.0
+891,HEV,Mercedes,S400HV,2016,0.0
+892,HEV,Mercedes,S400HV,2017,1.0
+893,HEV,Mercury,Mariner,1999,0.0
+894,HEV,Mercury,Mariner,2000,0.0
+895,HEV,Mercury,Mariner,2001,0.0
+896,HEV,Mercury,Mariner,2002,0.0
+897,HEV,Mercury,Mariner,2003,0.0
+898,HEV,Mercury,Mariner,2004,0.0
+899,HEV,Mercury,Mariner,2005,998.0
+900,HEV,Mercury,Mariner,2006,3174.0
+901,HEV,Mercury,Mariner,2007,3722.0
+902,HEV,Mercury,Mariner,2008,2329.0
+903,HEV,Mercury,Mariner,2009,1693.0
+904,HEV,Mercury,Mariner,2010,890.0
+905,HEV,Mercury,Mariner,2011,0.0
+906,HEV,Mercury,Mariner,2012,0.0
+907,HEV,Mercury,Mariner,2013,0.0
+908,HEV,Mercury,Mariner,2014,0.0
+909,HEV,Mercury,Mariner,2015,0.0
+910,HEV,Mercury,Mariner,2016,0.0
+911,HEV,Mercury,Mariner,2017,0.0
+912,HEV,Mercury,Milan,1999,0.0
+913,HEV,Mercury,Milan,2000,0.0
+914,HEV,Mercury,Milan,2001,0.0
+915,HEV,Mercury,Milan,2002,0.0
+916,HEV,Mercury,Milan,2003,0.0
+917,HEV,Mercury,Milan,2004,0.0
+918,HEV,Mercury,Milan,2005,0.0
+919,HEV,Mercury,Milan,2006,0.0
+920,HEV,Mercury,Milan,2007,0.0
+921,HEV,Mercury,Milan,2008,0.0
+922,HEV,Mercury,Milan,2009,1468.0
+923,HEV,Mercury,Milan,2010,1416.0
+924,HEV,Mercury,Milan,2011,0.0
+925,HEV,Mercury,Milan,2012,0.0
+926,HEV,Mercury,Milan,2013,0.0
+927,HEV,Mercury,Milan,2014,0.0
+928,HEV,Mercury,Milan,2015,0.0
+929,HEV,Mercury,Milan,2016,0.0
+930,HEV,Mercury,Milan,2017,0.0
+931,HEV,Nissan,Altima,1999,0.0
+932,HEV,Nissan,Altima,2000,0.0
+933,HEV,Nissan,Altima,2001,0.0
+934,HEV,Nissan,Altima,2002,0.0
+935,HEV,Nissan,Altima,2003,0.0
+936,HEV,Nissan,Altima,2004,0.0
+937,HEV,Nissan,Altima,2005,0.0
+938,HEV,Nissan,Altima,2006,0.0
+939,HEV,Nissan,Altima,2007,8388.0
+940,HEV,Nissan,Altima,2008,8819.0
+941,HEV,Nissan,Altima,2009,9357.0
+942,HEV,Nissan,Altima,2010,6710.0
+943,HEV,Nissan,Altima,2011,3236.0
+944,HEV,Nissan,Altima,2012,103.0
+945,HEV,Nissan,Altima,2013,0.0
+946,HEV,Nissan,Altima,2014,0.0
+947,HEV,Nissan,Altima,2015,0.0
+948,HEV,Nissan,Altima,2016,0.0
+949,HEV,Nissan,Altima,2017,0.0
+950,HEV,Nissan,Pathfinder Hybrid,1999,0.0
+951,HEV,Nissan,Pathfinder Hybrid,2000,0.0
+952,HEV,Nissan,Pathfinder Hybrid,2001,0.0
+953,HEV,Nissan,Pathfinder Hybrid,2002,0.0
+954,HEV,Nissan,Pathfinder Hybrid,2003,0.0
+955,HEV,Nissan,Pathfinder Hybrid,2004,0.0
+956,HEV,Nissan,Pathfinder Hybrid,2005,0.0
+957,HEV,Nissan,Pathfinder Hybrid,2006,0.0
+958,HEV,Nissan,Pathfinder Hybrid,2007,0.0
+959,HEV,Nissan,Pathfinder Hybrid,2008,0.0
+960,HEV,Nissan,Pathfinder Hybrid,2009,0.0
+961,HEV,Nissan,Pathfinder Hybrid,2010,0.0
+962,HEV,Nissan,Pathfinder Hybrid,2011,0.0
+963,HEV,Nissan,Pathfinder Hybrid,2012,0.0
+964,HEV,Nissan,Pathfinder Hybrid,2013,334.0
+965,HEV,Nissan,Pathfinder Hybrid,2014,2480.0
+966,HEV,Nissan,Pathfinder Hybrid,2015,2245.0
+967,HEV,Nissan,Pathfinder Hybrid,2016,816.0
+968,HEV,Nissan,Pathfinder Hybrid,2017,389.0
+969,HEV,Nissan,Rogue,1999,0.0
+970,HEV,Nissan,Rogue,2000,0.0
+971,HEV,Nissan,Rogue,2001,0.0
+972,HEV,Nissan,Rogue,2002,0.0
+973,HEV,Nissan,Rogue,2003,0.0
+974,HEV,Nissan,Rogue,2004,0.0
+975,HEV,Nissan,Rogue,2005,0.0
+976,HEV,Nissan,Rogue,2006,0.0
+977,HEV,Nissan,Rogue,2007,0.0
+978,HEV,Nissan,Rogue,2008,0.0
+979,HEV,Nissan,Rogue,2009,0.0
+980,HEV,Nissan,Rogue,2010,0.0
+981,HEV,Nissan,Rogue,2011,0.0
+982,HEV,Nissan,Rogue,2012,0.0
+983,HEV,Nissan,Rogue,2013,0.0
+984,HEV,Nissan,Rogue,2014,0.0
+985,HEV,Nissan,Rogue,2015,0.0
+986,HEV,Nissan,Rogue,2016,0.0
+987,HEV,Nissan,Rogue,2017,1066.0
+988,HEV,Porsche,Cayenne,1999,0.0
+989,HEV,Porsche,Cayenne,2000,0.0
+990,HEV,Porsche,Cayenne,2001,0.0
+991,HEV,Porsche,Cayenne,2002,0.0
+992,HEV,Porsche,Cayenne,2003,0.0
+993,HEV,Porsche,Cayenne,2004,0.0
+994,HEV,Porsche,Cayenne,2005,0.0
+995,HEV,Porsche,Cayenne,2006,0.0
+996,HEV,Porsche,Cayenne,2007,0.0
+997,HEV,Porsche,Cayenne,2008,0.0
+998,HEV,Porsche,Cayenne,2009,0.0
+999,HEV,Porsche,Cayenne,2010,206.0
+1000,HEV,Porsche,Cayenne,2011,1571.0
+1001,HEV,Porsche,Cayenne,2012,1180.0
+1002,HEV,Porsche,Cayenne,2013,615.0
+1003,HEV,Porsche,Cayenne,2014,650.0
+1004,HEV,Porsche,Cayenne,2015,0.0
+1005,HEV,Porsche,Cayenne,2016,0.0
+1006,HEV,Porsche,Cayenne,2017,0.0
+1007,HEV,Porsche,Panamera S,1999,0.0
+1008,HEV,Porsche,Panamera S,2000,0.0
+1009,HEV,Porsche,Panamera S,2001,0.0
+1010,HEV,Porsche,Panamera S,2002,0.0
+1011,HEV,Porsche,Panamera S,2003,0.0
+1012,HEV,Porsche,Panamera S,2004,0.0
+1013,HEV,Porsche,Panamera S,2005,0.0
+1014,HEV,Porsche,Panamera S,2006,0.0
+1015,HEV,Porsche,Panamera S,2007,0.0
+1016,HEV,Porsche,Panamera S,2008,0.0
+1017,HEV,Porsche,Panamera S,2009,0.0
+1018,HEV,Porsche,Panamera S,2010,0.0
+1019,HEV,Porsche,Panamera S,2011,52.0
+1020,HEV,Porsche,Panamera S,2012,570.0
+1021,HEV,Porsche,Panamera S,2013,113.0
+1022,HEV,Porsche,Panamera S,2014,0.0
+1023,HEV,Porsche,Panamera S,2015,0.0
+1024,HEV,Porsche,Panamera S,2016,0.0
+1025,HEV,Porsche,Panamera S,2017,0.0
+1026,HEV,Saturn,Aura,1999,0.0
+1027,HEV,Saturn,Aura,2000,0.0
+1028,HEV,Saturn,Aura,2001,0.0
+1029,HEV,Saturn,Aura,2002,0.0
+1030,HEV,Saturn,Aura,2003,0.0
+1031,HEV,Saturn,Aura,2004,0.0
+1032,HEV,Saturn,Aura,2005,0.0
+1033,HEV,Saturn,Aura,2006,0.0
+1034,HEV,Saturn,Aura,2007,772.0
+1035,HEV,Saturn,Aura,2008,285.0
+1036,HEV,Saturn,Aura,2009,527.0
+1037,HEV,Saturn,Aura,2010,54.0
+1038,HEV,Saturn,Aura,2011,0.0
+1039,HEV,Saturn,Aura,2012,0.0
+1040,HEV,Saturn,Aura,2013,0.0
+1041,HEV,Saturn,Aura,2014,0.0
+1042,HEV,Saturn,Aura,2015,0.0
+1043,HEV,Saturn,Aura,2016,0.0
+1044,HEV,Saturn,Aura,2017,0.0
+1045,HEV,Saturn,Vue,1999,0.0
+1046,HEV,Saturn,Vue,2000,0.0
+1047,HEV,Saturn,Vue,2001,0.0
+1048,HEV,Saturn,Vue,2002,0.0
+1049,HEV,Saturn,Vue,2003,0.0
+1050,HEV,Saturn,Vue,2004,0.0
+1051,HEV,Saturn,Vue,2005,0.0
+1052,HEV,Saturn,Vue,2006,0.0
+1053,HEV,Saturn,Vue,2007,4403.0
+1054,HEV,Saturn,Vue,2008,2920.0
+1055,HEV,Saturn,Vue,2009,2656.0
+1056,HEV,Saturn,Vue,2010,50.0
+1057,HEV,Saturn,Vue,2011,0.0
+1058,HEV,Saturn,Vue,2012,0.0
+1059,HEV,Saturn,Vue,2013,0.0
+1060,HEV,Saturn,Vue,2014,0.0
+1061,HEV,Saturn,Vue,2015,0.0
+1062,HEV,Saturn,Vue,2016,0.0
+1063,HEV,Saturn,Vue,2017,0.0
+1064,HEV,Subaru,XV Crosstrek,1999,0.0
+1065,HEV,Subaru,XV Crosstrek,2000,0.0
+1066,HEV,Subaru,XV Crosstrek,2001,0.0
+1067,HEV,Subaru,XV Crosstrek,2002,0.0
+1068,HEV,Subaru,XV Crosstrek,2003,0.0
+1069,HEV,Subaru,XV Crosstrek,2004,0.0
+1070,HEV,Subaru,XV Crosstrek,2005,0.0
+1071,HEV,Subaru,XV Crosstrek,2006,0.0
+1072,HEV,Subaru,XV Crosstrek,2007,0.0
+1073,HEV,Subaru,XV Crosstrek,2008,0.0
+1074,HEV,Subaru,XV Crosstrek,2009,0.0
+1075,HEV,Subaru,XV Crosstrek,2010,0.0
+1076,HEV,Subaru,XV Crosstrek,2011,0.0
+1077,HEV,Subaru,XV Crosstrek,2012,0.0
+1078,HEV,Subaru,XV Crosstrek,2013,0.0
+1079,HEV,Subaru,XV Crosstrek,2014,7926.0
+1080,HEV,Subaru,XV Crosstrek,2015,5589.0
+1081,HEV,Subaru,XV Crosstrek,2016,2173.0
+1082,HEV,Subaru,XV Crosstrek,2017,45.0
+1083,HEV,Toyota,Avalon,1999,0.0
+1084,HEV,Toyota,Avalon,2000,0.0
+1085,HEV,Toyota,Avalon,2001,0.0
+1086,HEV,Toyota,Avalon,2002,0.0
+1087,HEV,Toyota,Avalon,2003,0.0
+1088,HEV,Toyota,Avalon,2004,0.0
+1089,HEV,Toyota,Avalon,2005,0.0
+1090,HEV,Toyota,Avalon,2006,0.0
+1091,HEV,Toyota,Avalon,2007,0.0
+1092,HEV,Toyota,Avalon,2008,0.0
+1093,HEV,Toyota,Avalon,2009,0.0
+1094,HEV,Toyota,Avalon,2010,0.0
+1095,HEV,Toyota,Avalon,2011,0.0
+1096,HEV,Toyota,Avalon,2012,747.0
+1097,HEV,Toyota,Avalon,2013,16468.0
+1098,HEV,Toyota,Avalon,2014,17048.0
+1099,HEV,Toyota,Avalon,2015,11956.0
+1100,HEV,Toyota,Avalon,2016,8451.0
+1101,HEV,Toyota,Avalon,2017,4990.0
+1102,HEV,Toyota,Camry,1999,0.0
+1103,HEV,Toyota,Camry,2000,0.0
+1104,HEV,Toyota,Camry,2001,0.0
+1105,HEV,Toyota,Camry,2002,0.0
+1106,HEV,Toyota,Camry,2003,0.0
+1107,HEV,Toyota,Camry,2004,0.0
+1108,HEV,Toyota,Camry,2005,0.0
+1109,HEV,Toyota,Camry,2006,31341.0
+1110,HEV,Toyota,Camry,2007,54477.0
+1111,HEV,Toyota,Camry,2008,46272.0
+1112,HEV,Toyota,Camry,2009,22887.0
+1113,HEV,Toyota,Camry,2010,14587.0
+1114,HEV,Toyota,Camry,2011,9241.0
+1115,HEV,Toyota,Camry,2012,45656.0
+1116,HEV,Toyota,Camry,2013,44448.0
+1117,HEV,Toyota,Camry,2014,39515.0
+1118,HEV,Toyota,Camry,2015,30640.0
+1119,HEV,Toyota,Camry,2016,22227.0
+1120,HEV,Toyota,Camry,2017,20985.0
+1121,HEV,Toyota,Highlander,1999,0.0
+1122,HEV,Toyota,Highlander,2000,0.0
+1123,HEV,Toyota,Highlander,2001,0.0
+1124,HEV,Toyota,Highlander,2002,0.0
+1125,HEV,Toyota,Highlander,2003,0.0
+1126,HEV,Toyota,Highlander,2004,0.0
+1127,HEV,Toyota,Highlander,2005,17989.0
+1128,HEV,Toyota,Highlander,2006,31485.0
+1129,HEV,Toyota,Highlander,2007,22052.0
+1130,HEV,Toyota,Highlander,2008,19441.0
+1131,HEV,Toyota,Highlander,2009,11086.0
+1132,HEV,Toyota,Highlander,2010,7456.0
+1133,HEV,Toyota,Highlander,2011,4549.0
+1134,HEV,Toyota,Highlander,2012,5921.0
+1135,HEV,Toyota,Highlander,2013,5070.0
+1136,HEV,Toyota,Highlander,2014,3621.0
+1137,HEV,Toyota,Highlander,2015,4015.0
+1138,HEV,Toyota,Highlander,2016,5976.0
+1139,HEV,Toyota,Highlander,2017,16864.0
+1140,HEV,Toyota,Prius (Liftback),1999,0.0
+1141,HEV,Toyota,Prius (Liftback),2000,5562.0
+1142,HEV,Toyota,Prius (Liftback),2001,15556.0
+1143,HEV,Toyota,Prius (Liftback),2002,20119.0
+1144,HEV,Toyota,Prius (Liftback),2003,24600.0
+1145,HEV,Toyota,Prius (Liftback),2004,53991.0
+1146,HEV,Toyota,Prius (Liftback),2005,107897.0
+1147,HEV,Toyota,Prius (Liftback),2006,106971.0
+1148,HEV,Toyota,Prius (Liftback),2007,181221.0
+1149,HEV,Toyota,Prius (Liftback),2008,158574.0
+1150,HEV,Toyota,Prius (Liftback),2009,139682.0
+1151,HEV,Toyota,Prius (Liftback),2010,140928.0
+1152,HEV,Toyota,Prius (Liftback),2011,136481.0
+1153,HEV,Toyota,Prius (Liftback),2012,164618.0
+1154,HEV,Toyota,Prius (Liftback),2013,145172.0
+1155,HEV,Toyota,Prius (Liftback),2014,122776.0
+1156,HEV,Toyota,Prius (Liftback),2015,113829.0
+1157,HEV,Toyota,Prius (Liftback),2016,98863.0
+1158,HEV,Toyota,Prius (Liftback),2017,65630.0
+1159,HEV,Toyota,Prius C,1999,0.0
+1160,HEV,Toyota,Prius C,2000,0.0
+1161,HEV,Toyota,Prius C,2001,0.0
+1162,HEV,Toyota,Prius C,2002,0.0
+1163,HEV,Toyota,Prius C,2003,0.0
+1164,HEV,Toyota,Prius C,2004,0.0
+1165,HEV,Toyota,Prius C,2005,0.0
+1166,HEV,Toyota,Prius C,2006,0.0
+1167,HEV,Toyota,Prius C,2007,0.0
+1168,HEV,Toyota,Prius C,2008,0.0
+1169,HEV,Toyota,Prius C,2009,0.0
+1170,HEV,Toyota,Prius C,2010,0.0
+1171,HEV,Toyota,Prius C,2011,0.0
+1172,HEV,Toyota,Prius C,2012,30838.0
+1173,HEV,Toyota,Prius C,2013,41979.0
+1174,HEV,Toyota,Prius C,2014,40570.0
+1175,HEV,Toyota,Prius C,2015,38484.0
+1176,HEV,Toyota,Prius C,2016,20452.0
+1177,HEV,Toyota,Prius C,2017,12415.0
+1178,HEV,Toyota,Prius V,1999,0.0
+1179,HEV,Toyota,Prius V,2000,0.0
+1180,HEV,Toyota,Prius V,2001,0.0
+1181,HEV,Toyota,Prius V,2002,0.0
+1182,HEV,Toyota,Prius V,2003,0.0
+1183,HEV,Toyota,Prius V,2004,0.0
+1184,HEV,Toyota,Prius V,2005,0.0
+1185,HEV,Toyota,Prius V,2006,0.0
+1186,HEV,Toyota,Prius V,2007,0.0
+1187,HEV,Toyota,Prius V,2008,0.0
+1188,HEV,Toyota,Prius V,2009,0.0
+1189,HEV,Toyota,Prius V,2010,0.0
+1190,HEV,Toyota,Prius V,2011,0.0
+1191,HEV,Toyota,Prius V,2012,28450.0
+1192,HEV,Toyota,Prius V,2013,34989.0
+1193,HEV,Toyota,Prius V,2014,30762.0
+1194,HEV,Toyota,Prius V,2015,28290.0
+1195,HEV,Toyota,Prius V,2016,14840.0
+1196,HEV,Toyota,Prius V,2017,9680.0
+1197,HEV,Toyota,RAV4 ,1999,0.0
+1198,HEV,Toyota,RAV4 ,2000,0.0
+1199,HEV,Toyota,RAV4 ,2001,0.0
+1200,HEV,Toyota,RAV4 ,2002,0.0
+1201,HEV,Toyota,RAV4 ,2003,0.0
+1202,HEV,Toyota,RAV4 ,2004,0.0
+1203,HEV,Toyota,RAV4 ,2005,0.0
+1204,HEV,Toyota,RAV4 ,2006,0.0
+1205,HEV,Toyota,RAV4 ,2007,0.0
+1206,HEV,Toyota,RAV4 ,2008,0.0
+1207,HEV,Toyota,RAV4 ,2009,0.0
+1208,HEV,Toyota,RAV4 ,2010,0.0
+1209,HEV,Toyota,RAV4 ,2011,0.0
+1210,HEV,Toyota,RAV4 ,2012,0.0
+1211,HEV,Toyota,RAV4 ,2013,0.0
+1212,HEV,Toyota,RAV4 ,2014,0.0
+1213,HEV,Toyota,RAV4 ,2015,1494.0
+1214,HEV,Toyota,RAV4 ,2016,45070.0
+1215,HEV,Toyota,RAV4 ,2017,50559.0
+1216,HEV,Volkswagen,Jetta Hybrid,1999,0.0
+1217,HEV,Volkswagen,Jetta Hybrid,2000,0.0
+1218,HEV,Volkswagen,Jetta Hybrid,2001,0.0
+1219,HEV,Volkswagen,Jetta Hybrid,2002,0.0
+1220,HEV,Volkswagen,Jetta Hybrid,2003,0.0
+1221,HEV,Volkswagen,Jetta Hybrid,2004,0.0
+1222,HEV,Volkswagen,Jetta Hybrid,2005,0.0
+1223,HEV,Volkswagen,Jetta Hybrid,2006,0.0
+1224,HEV,Volkswagen,Jetta Hybrid,2007,0.0
+1225,HEV,Volkswagen,Jetta Hybrid,2008,0.0
+1226,HEV,Volkswagen,Jetta Hybrid,2009,0.0
+1227,HEV,Volkswagen,Jetta Hybrid,2010,0.0
+1228,HEV,Volkswagen,Jetta Hybrid,2011,0.0
+1229,HEV,Volkswagen,Jetta Hybrid,2012,162.0
+1230,HEV,Volkswagen,Jetta Hybrid,2013,5655.0
+1231,HEV,Volkswagen,Jetta Hybrid,2014,1939.0
+1232,HEV,Volkswagen,Jetta Hybrid,2015,740.0
+1233,HEV,Volkswagen,Jetta Hybrid,2016,709.0
+1234,HEV,Volkswagen,Jetta Hybrid,2017,70.0
+1235,HEV,Volkswagen,Touareg Hybrid,1999,0.0
+1236,HEV,Volkswagen,Touareg Hybrid,2000,0.0
+1237,HEV,Volkswagen,Touareg Hybrid,2001,0.0
+1238,HEV,Volkswagen,Touareg Hybrid,2002,0.0
+1239,HEV,Volkswagen,Touareg Hybrid,2003,0.0
+1240,HEV,Volkswagen,Touareg Hybrid,2004,0.0
+1241,HEV,Volkswagen,Touareg Hybrid,2005,0.0
+1242,HEV,Volkswagen,Touareg Hybrid,2006,0.0
+1243,HEV,Volkswagen,Touareg Hybrid,2007,0.0
+1244,HEV,Volkswagen,Touareg Hybrid,2008,0.0
+1245,HEV,Volkswagen,Touareg Hybrid,2009,0.0
+1246,HEV,Volkswagen,Touareg Hybrid,2010,0.0
+1247,HEV,Volkswagen,Touareg Hybrid,2011,221.0
+1248,HEV,Volkswagen,Touareg Hybrid,2012,250.0
+1249,HEV,Volkswagen,Touareg Hybrid,2013,118.0
+1250,HEV,Volkswagen,Touareg Hybrid,2014,30.0
+1251,HEV,Volkswagen,Touareg Hybrid,2015,16.0
+1252,HEV,Volkswagen,Touareg Hybrid,2016,1.0
+1253,HEV,Volkswagen,Touareg Hybrid,2017,0.0
+1254,PEV,Audi,A3 Plug In,1999,0.0
+1255,PEV,Audi,A3 Plug In,2000,0.0
+1256,PEV,Audi,A3 Plug In,2001,0.0
+1257,PEV,Audi,A3 Plug In,2002,0.0
+1258,PEV,Audi,A3 Plug In,2003,0.0
+1259,PEV,Audi,A3 Plug In,2004,0.0
+1260,PEV,Audi,A3 Plug In,2005,0.0
+1261,PEV,Audi,A3 Plug In,2006,0.0
+1262,PEV,Audi,A3 Plug In,2007,0.0
+1263,PEV,Audi,A3 Plug In,2008,0.0
+1264,PEV,Audi,A3 Plug In,2009,0.0
+1265,PEV,Audi,A3 Plug In,2010,0.0
+1266,PEV,Audi,A3 Plug In,2011,0.0
+1267,PEV,Audi,A3 Plug In,2012,0.0
+1268,PEV,Audi,A3 Plug In,2013,0.0
+1269,PEV,Audi,A3 Plug In,2014,0.0
+1270,PEV,Audi,A3 Plug In,2015,0.0
+1271,PEV,Audi,A3 Plug In,2016,4280.0
+1272,PEV,Audi,A3 Plug In,2017,2877.0
+1273,PEV,BMW,3 Series Plug,1999,0.0
+1274,PEV,BMW,3 Series Plug,2000,0.0
+1275,PEV,BMW,3 Series Plug,2001,0.0
+1276,PEV,BMW,3 Series Plug,2002,0.0
+1277,PEV,BMW,3 Series Plug,2003,0.0
+1278,PEV,BMW,3 Series Plug,2004,0.0
+1279,PEV,BMW,3 Series Plug,2005,0.0
+1280,PEV,BMW,3 Series Plug,2006,0.0
+1281,PEV,BMW,3 Series Plug,2007,0.0
+1282,PEV,BMW,3 Series Plug,2008,0.0
+1283,PEV,BMW,3 Series Plug,2009,0.0
+1284,PEV,BMW,3 Series Plug,2010,0.0
+1285,PEV,BMW,3 Series Plug,2011,0.0
+1286,PEV,BMW,3 Series Plug,2012,0.0
+1287,PEV,BMW,3 Series Plug,2013,0.0
+1288,PEV,BMW,3 Series Plug,2014,0.0
+1289,PEV,BMW,3 Series Plug,2015,54.0
+1290,PEV,BMW,3 Series Plug,2016,851.0
+1291,PEV,BMW,3 Series Plug,2017,4141.0
+1292,PEV,BMW,5 Series Plug,1999,0.0
+1293,PEV,BMW,5 Series Plug,2000,0.0
+1294,PEV,BMW,5 Series Plug,2001,0.0
+1295,PEV,BMW,5 Series Plug,2002,0.0
+1296,PEV,BMW,5 Series Plug,2003,0.0
+1297,PEV,BMW,5 Series Plug,2004,0.0
+1298,PEV,BMW,5 Series Plug,2005,0.0
+1299,PEV,BMW,5 Series Plug,2006,0.0
+1300,PEV,BMW,5 Series Plug,2007,0.0
+1301,PEV,BMW,5 Series Plug,2008,0.0
+1302,PEV,BMW,5 Series Plug,2009,0.0
+1303,PEV,BMW,5 Series Plug,2010,0.0
+1304,PEV,BMW,5 Series Plug,2011,0.0
+1305,PEV,BMW,5 Series Plug,2012,0.0
+1306,PEV,BMW,5 Series Plug,2013,0.0
+1307,PEV,BMW,5 Series Plug,2014,0.0
+1308,PEV,BMW,5 Series Plug,2015,0.0
+1309,PEV,BMW,5 Series Plug,2016,0.0
+1310,PEV,BMW,5 Series Plug,2017,3759.0
+1311,PEV,BMW,7 Series Plug,1999,0.0
+1312,PEV,BMW,7 Series Plug,2000,0.0
+1313,PEV,BMW,7 Series Plug,2001,0.0
+1314,PEV,BMW,7 Series Plug,2002,0.0
+1315,PEV,BMW,7 Series Plug,2003,0.0
+1316,PEV,BMW,7 Series Plug,2004,0.0
+1317,PEV,BMW,7 Series Plug,2005,0.0
+1318,PEV,BMW,7 Series Plug,2006,0.0
+1319,PEV,BMW,7 Series Plug,2007,0.0
+1320,PEV,BMW,7 Series Plug,2008,0.0
+1321,PEV,BMW,7 Series Plug,2009,0.0
+1322,PEV,BMW,7 Series Plug,2010,0.0
+1323,PEV,BMW,7 Series Plug,2011,0.0
+1324,PEV,BMW,7 Series Plug,2012,0.0
+1325,PEV,BMW,7 Series Plug,2013,0.0
+1326,PEV,BMW,7 Series Plug,2014,0.0
+1327,PEV,BMW,7 Series Plug,2015,0.0
+1328,PEV,BMW,7 Series Plug,2016,23.0
+1329,PEV,BMW,7 Series Plug,2017,707.0
+1330,PEV,BMW,Active E,1999,0.0
+1331,PEV,BMW,Active E,2000,0.0
+1332,PEV,BMW,Active E,2001,0.0
+1333,PEV,BMW,Active E,2002,0.0
+1334,PEV,BMW,Active E,2003,0.0
+1335,PEV,BMW,Active E,2004,0.0
+1336,PEV,BMW,Active E,2005,0.0
+1337,PEV,BMW,Active E,2006,0.0
+1338,PEV,BMW,Active E,2007,0.0
+1339,PEV,BMW,Active E,2008,0.0
+1340,PEV,BMW,Active E,2009,0.0
+1341,PEV,BMW,Active E,2010,0.0
+1342,PEV,BMW,Active E,2011,0.0
+1343,PEV,BMW,Active E,2012,965.0
+1344,PEV,BMW,Active E,2013,0.0
+1345,PEV,BMW,Active E,2014,0.0
+1346,PEV,BMW,Active E,2015,0.0
+1347,PEV,BMW,Active E,2016,0.0
+1348,PEV,BMW,Active E,2017,0.0
+1349,PEV,BMW,X5,1999,0.0
+1350,PEV,BMW,X5,2000,0.0
+1351,PEV,BMW,X5,2001,0.0
+1352,PEV,BMW,X5,2002,0.0
+1353,PEV,BMW,X5,2003,0.0
+1354,PEV,BMW,X5,2004,0.0
+1355,PEV,BMW,X5,2005,0.0
+1356,PEV,BMW,X5,2006,0.0
+1357,PEV,BMW,X5,2007,0.0
+1358,PEV,BMW,X5,2008,0.0
+1359,PEV,BMW,X5,2009,0.0
+1360,PEV,BMW,X5,2010,0.0
+1361,PEV,BMW,X5,2011,0.0
+1362,PEV,BMW,X5,2012,0.0
+1363,PEV,BMW,X5,2013,0.0
+1364,PEV,BMW,X5,2014,0.0
+1365,PEV,BMW,X5,2015,774.0
+1366,PEV,BMW,X5,2016,5995.0
+1367,PEV,BMW,X5,2017,5349.0
+1368,PEV,BMW,i3,1999,0.0
+1369,PEV,BMW,i3,2000,0.0
+1370,PEV,BMW,i3,2001,0.0
+1371,PEV,BMW,i3,2002,0.0
+1372,PEV,BMW,i3,2003,0.0
+1373,PEV,BMW,i3,2004,0.0
+1374,PEV,BMW,i3,2005,0.0
+1375,PEV,BMW,i3,2006,0.0
+1376,PEV,BMW,i3,2007,0.0
+1377,PEV,BMW,i3,2008,0.0
+1378,PEV,BMW,i3,2009,0.0
+1379,PEV,BMW,i3,2010,0.0
+1380,PEV,BMW,i3,2011,0.0
+1381,PEV,BMW,i3,2012,0.0
+1382,PEV,BMW,i3,2013,0.0
+1383,PEV,BMW,i3,2014,6092.0
+1384,PEV,BMW,i3,2015,11004.0
+1385,PEV,BMW,i3,2016,7625.0
+1386,PEV,BMW,i3,2017,6276.0
+1387,PEV,BMW,i8,1999,0.0
+1388,PEV,BMW,i8,2000,0.0
+1389,PEV,BMW,i8,2001,0.0
+1390,PEV,BMW,i8,2002,0.0
+1391,PEV,BMW,i8,2003,0.0
+1392,PEV,BMW,i8,2004,0.0
+1393,PEV,BMW,i8,2005,0.0
+1394,PEV,BMW,i8,2006,0.0
+1395,PEV,BMW,i8,2007,0.0
+1396,PEV,BMW,i8,2008,0.0
+1397,PEV,BMW,i8,2009,0.0
+1398,PEV,BMW,i8,2010,0.0
+1399,PEV,BMW,i8,2011,0.0
+1400,PEV,BMW,i8,2012,0.0
+1401,PEV,BMW,i8,2013,0.0
+1402,PEV,BMW,i8,2014,555.0
+1403,PEV,BMW,i8,2015,2265.0
+1404,PEV,BMW,i8,2016,1594.0
+1405,PEV,BMW,i8,2017,488.0
+1406,PEV,Cadillac,CT6,1999,0.0
+1407,PEV,Cadillac,CT6,2000,0.0
+1408,PEV,Cadillac,CT6,2001,0.0
+1409,PEV,Cadillac,CT6,2002,0.0
+1410,PEV,Cadillac,CT6,2003,0.0
+1411,PEV,Cadillac,CT6,2004,0.0
+1412,PEV,Cadillac,CT6,2005,0.0
+1413,PEV,Cadillac,CT6,2006,0.0
+1414,PEV,Cadillac,CT6,2007,0.0
+1415,PEV,Cadillac,CT6,2008,0.0
+1416,PEV,Cadillac,CT6,2009,0.0
+1417,PEV,Cadillac,CT6,2010,0.0
+1418,PEV,Cadillac,CT6,2011,0.0
+1419,PEV,Cadillac,CT6,2012,0.0
+1420,PEV,Cadillac,CT6,2013,0.0
+1421,PEV,Cadillac,CT6,2014,0.0
+1422,PEV,Cadillac,CT6,2015,0.0
+1423,PEV,Cadillac,CT6,2016,0.0
+1424,PEV,Cadillac,CT6,2017,205.0
+1425,PEV,Cadillac,ELR,1999,0.0
+1426,PEV,Cadillac,ELR,2000,0.0
+1427,PEV,Cadillac,ELR,2001,0.0
+1428,PEV,Cadillac,ELR,2002,0.0
+1429,PEV,Cadillac,ELR,2003,0.0
+1430,PEV,Cadillac,ELR,2004,0.0
+1431,PEV,Cadillac,ELR,2005,0.0
+1432,PEV,Cadillac,ELR,2006,0.0
+1433,PEV,Cadillac,ELR,2007,0.0
+1434,PEV,Cadillac,ELR,2008,0.0
+1435,PEV,Cadillac,ELR,2009,0.0
+1436,PEV,Cadillac,ELR,2010,0.0
+1437,PEV,Cadillac,ELR,2011,0.0
+1438,PEV,Cadillac,ELR,2012,0.0
+1439,PEV,Cadillac,ELR,2013,6.0
+1440,PEV,Cadillac,ELR,2014,1310.0
+1441,PEV,Cadillac,ELR,2015,1024.0
+1442,PEV,Cadillac,ELR,2016,534.0
+1443,PEV,Cadillac,ELR,2017,17.0
+1444,PEV,Chevrolet,Bolt,1999,0.0
+1445,PEV,Chevrolet,Bolt,2000,0.0
+1446,PEV,Chevrolet,Bolt,2001,0.0
+1447,PEV,Chevrolet,Bolt,2002,0.0
+1448,PEV,Chevrolet,Bolt,2003,0.0
+1449,PEV,Chevrolet,Bolt,2004,0.0
+1450,PEV,Chevrolet,Bolt,2005,0.0
+1451,PEV,Chevrolet,Bolt,2006,0.0
+1452,PEV,Chevrolet,Bolt,2007,0.0
+1453,PEV,Chevrolet,Bolt,2008,0.0
+1454,PEV,Chevrolet,Bolt,2009,0.0
+1455,PEV,Chevrolet,Bolt,2010,0.0
+1456,PEV,Chevrolet,Bolt,2011,0.0
+1457,PEV,Chevrolet,Bolt,2012,0.0
+1458,PEV,Chevrolet,Bolt,2013,0.0
+1459,PEV,Chevrolet,Bolt,2014,0.0
+1460,PEV,Chevrolet,Bolt,2015,0.0
+1461,PEV,Chevrolet,Bolt,2016,579.0
+1462,PEV,Chevrolet,Bolt,2017,23297.0
+1463,PEV,Chevrolet,Spark,1999,0.0
+1464,PEV,Chevrolet,Spark,2000,0.0
+1465,PEV,Chevrolet,Spark,2001,0.0
+1466,PEV,Chevrolet,Spark,2002,0.0
+1467,PEV,Chevrolet,Spark,2003,0.0
+1468,PEV,Chevrolet,Spark,2004,0.0
+1469,PEV,Chevrolet,Spark,2005,0.0
+1470,PEV,Chevrolet,Spark,2006,0.0
+1471,PEV,Chevrolet,Spark,2007,0.0
+1472,PEV,Chevrolet,Spark,2008,0.0
+1473,PEV,Chevrolet,Spark,2009,0.0
+1474,PEV,Chevrolet,Spark,2010,0.0
+1475,PEV,Chevrolet,Spark,2011,0.0
+1476,PEV,Chevrolet,Spark,2012,0.0
+1477,PEV,Chevrolet,Spark,2013,560.0
+1478,PEV,Chevrolet,Spark,2014,1145.0
+1479,PEV,Chevrolet,Spark,2015,2629.0
+1480,PEV,Chevrolet,Spark,2016,3035.0
+1481,PEV,Chevrolet,Spark,2017,23.0
+1482,PEV,Chevrolet,Volt,1999,0.0
+1483,PEV,Chevrolet,Volt,2000,0.0
+1484,PEV,Chevrolet,Volt,2001,0.0
+1485,PEV,Chevrolet,Volt,2002,0.0
+1486,PEV,Chevrolet,Volt,2003,0.0
+1487,PEV,Chevrolet,Volt,2004,0.0
+1488,PEV,Chevrolet,Volt,2005,0.0
+1489,PEV,Chevrolet,Volt,2006,0.0
+1490,PEV,Chevrolet,Volt,2007,0.0
+1491,PEV,Chevrolet,Volt,2008,0.0
+1492,PEV,Chevrolet,Volt,2009,0.0
+1493,PEV,Chevrolet,Volt,2010,0.0
+1494,PEV,Chevrolet,Volt,2011,7671.0
+1495,PEV,Chevrolet,Volt,2012,23461.0
+1496,PEV,Chevrolet,Volt,2013,23094.0
+1497,PEV,Chevrolet,Volt,2014,18805.0
+1498,PEV,Chevrolet,Volt,2015,15393.0
+1499,PEV,Chevrolet,Volt,2016,24739.0
+1500,PEV,Chevrolet,Volt,2017,20349.0
+1501,PEV,Chrysler,Pacifica,1999,0.0
+1502,PEV,Chrysler,Pacifica,2000,0.0
+1503,PEV,Chrysler,Pacifica,2001,0.0
+1504,PEV,Chrysler,Pacifica,2002,0.0
+1505,PEV,Chrysler,Pacifica,2003,0.0
+1506,PEV,Chrysler,Pacifica,2004,0.0
+1507,PEV,Chrysler,Pacifica,2005,0.0
+1508,PEV,Chrysler,Pacifica,2006,0.0
+1509,PEV,Chrysler,Pacifica,2007,0.0
+1510,PEV,Chrysler,Pacifica,2008,0.0
+1511,PEV,Chrysler,Pacifica,2009,0.0
+1512,PEV,Chrysler,Pacifica,2010,0.0
+1513,PEV,Chrysler,Pacifica,2011,0.0
+1514,PEV,Chrysler,Pacifica,2012,0.0
+1515,PEV,Chrysler,Pacifica,2013,0.0
+1516,PEV,Chrysler,Pacifica,2014,0.0
+1517,PEV,Chrysler,Pacifica,2015,0.0
+1518,PEV,Chrysler,Pacifica,2016,0.0
+1519,PEV,Chrysler,Pacifica,2017,2764.0
+1520,PEV,Fiat,500E,1999,0.0
+1521,PEV,Fiat,500E,2000,0.0
+1522,PEV,Fiat,500E,2001,0.0
+1523,PEV,Fiat,500E,2002,0.0
+1524,PEV,Fiat,500E,2003,0.0
+1525,PEV,Fiat,500E,2004,0.0
+1526,PEV,Fiat,500E,2005,0.0
+1527,PEV,Fiat,500E,2006,0.0
+1528,PEV,Fiat,500E,2007,0.0
+1529,PEV,Fiat,500E,2008,0.0
+1530,PEV,Fiat,500E,2009,0.0
+1531,PEV,Fiat,500E,2010,0.0
+1532,PEV,Fiat,500E,2011,0.0
+1533,PEV,Fiat,500E,2012,0.0
+1534,PEV,Fiat,500E,2013,260.0
+1535,PEV,Fiat,500E,2014,1503.0
+1536,PEV,Fiat,500E,2015,3477.0
+1537,PEV,Fiat,500E,2016,3737.0
+1538,PEV,Fiat,500E,2017,3336.0
+1539,PEV,Ford,C-MAX Energi,1999,0.0
+1540,PEV,Ford,C-MAX Energi,2000,0.0
+1541,PEV,Ford,C-MAX Energi,2001,0.0
+1542,PEV,Ford,C-MAX Energi,2002,0.0
+1543,PEV,Ford,C-MAX Energi,2003,0.0
+1544,PEV,Ford,C-MAX Energi,2004,0.0
+1545,PEV,Ford,C-MAX Energi,2005,0.0
+1546,PEV,Ford,C-MAX Energi,2006,0.0
+1547,PEV,Ford,C-MAX Energi,2007,0.0
+1548,PEV,Ford,C-MAX Energi,2008,0.0
+1549,PEV,Ford,C-MAX Energi,2009,0.0
+1550,PEV,Ford,C-MAX Energi,2010,0.0
+1551,PEV,Ford,C-MAX Energi,2011,0.0
+1552,PEV,Ford,C-MAX Energi,2012,2374.0
+1553,PEV,Ford,C-MAX Energi,2013,7154.0
+1554,PEV,Ford,C-MAX Energi,2014,8433.0
+1555,PEV,Ford,C-MAX Energi,2015,7591.0
+1556,PEV,Ford,C-MAX Energi,2016,7957.0
+1557,PEV,Ford,C-MAX Energi,2017,8140.0
+1558,PEV,Ford,Focus EV,1999,0.0
+1559,PEV,Ford,Focus EV,2000,0.0
+1560,PEV,Ford,Focus EV,2001,0.0
+1561,PEV,Ford,Focus EV,2002,0.0
+1562,PEV,Ford,Focus EV,2003,0.0
+1563,PEV,Ford,Focus EV,2004,0.0
+1564,PEV,Ford,Focus EV,2005,0.0
+1565,PEV,Ford,Focus EV,2006,0.0
+1566,PEV,Ford,Focus EV,2007,0.0
+1567,PEV,Ford,Focus EV,2008,0.0
+1568,PEV,Ford,Focus EV,2009,0.0
+1569,PEV,Ford,Focus EV,2010,0.0
+1570,PEV,Ford,Focus EV,2011,0.0
+1571,PEV,Ford,Focus EV,2012,683.0
+1572,PEV,Ford,Focus EV,2013,1738.0
+1573,PEV,Ford,Focus EV,2014,1964.0
+1574,PEV,Ford,Focus EV,2015,1582.0
+1575,PEV,Ford,Focus EV,2016,901.0
+1576,PEV,Ford,Focus EV,2017,1817.0
+1577,PEV,Ford,Fusion Energi,1999,0.0
+1578,PEV,Ford,Fusion Energi,2000,0.0
+1579,PEV,Ford,Fusion Energi,2001,0.0
+1580,PEV,Ford,Fusion Energi,2002,0.0
+1581,PEV,Ford,Fusion Energi,2003,0.0
+1582,PEV,Ford,Fusion Energi,2004,0.0
+1583,PEV,Ford,Fusion Energi,2005,0.0
+1584,PEV,Ford,Fusion Energi,2006,0.0
+1585,PEV,Ford,Fusion Energi,2007,0.0
+1586,PEV,Ford,Fusion Energi,2008,0.0
+1587,PEV,Ford,Fusion Energi,2009,0.0
+1588,PEV,Ford,Fusion Energi,2010,0.0
+1589,PEV,Ford,Fusion Energi,2011,0.0
+1590,PEV,Ford,Fusion Energi,2012,0.0
+1591,PEV,Ford,Fusion Energi,2013,6089.0
+1592,PEV,Ford,Fusion Energi,2014,11550.0
+1593,PEV,Ford,Fusion Energi,2015,9750.0
+1594,PEV,Ford,Fusion Energi,2016,15938.0
+1595,PEV,Ford,Fusion Energi,2017,9632.0
+1596,PEV,Honda,Accord,1999,0.0
+1597,PEV,Honda,Accord,2000,0.0
+1598,PEV,Honda,Accord,2001,0.0
+1599,PEV,Honda,Accord,2002,0.0
+1600,PEV,Honda,Accord,2003,0.0
+1601,PEV,Honda,Accord,2004,0.0
+1602,PEV,Honda,Accord,2005,0.0
+1603,PEV,Honda,Accord,2006,0.0
+1604,PEV,Honda,Accord,2007,0.0
+1605,PEV,Honda,Accord,2008,0.0
+1606,PEV,Honda,Accord,2009,0.0
+1607,PEV,Honda,Accord,2010,0.0
+1608,PEV,Honda,Accord,2011,0.0
+1609,PEV,Honda,Accord,2012,0.0
+1610,PEV,Honda,Accord,2013,526.0
+1611,PEV,Honda,Accord,2014,449.0
+1612,PEV,Honda,Accord,2015,63.0
+1613,PEV,Honda,Accord,2016,0.0
+1614,PEV,Honda,Accord,2017,0.0
+1615,PEV,Honda,Clarity BEV,1999,0.0
+1616,PEV,Honda,Clarity BEV,2000,0.0
+1617,PEV,Honda,Clarity BEV,2001,0.0
+1618,PEV,Honda,Clarity BEV,2002,0.0
+1619,PEV,Honda,Clarity BEV,2003,0.0
+1620,PEV,Honda,Clarity BEV,2004,0.0
+1621,PEV,Honda,Clarity BEV,2005,0.0
+1622,PEV,Honda,Clarity BEV,2006,0.0
+1623,PEV,Honda,Clarity BEV,2007,0.0
+1624,PEV,Honda,Clarity BEV,2008,0.0
+1625,PEV,Honda,Clarity BEV,2009,0.0
+1626,PEV,Honda,Clarity BEV,2010,0.0
+1627,PEV,Honda,Clarity BEV,2011,0.0
+1628,PEV,Honda,Clarity BEV,2012,0.0
+1629,PEV,Honda,Clarity BEV,2013,0.0
+1630,PEV,Honda,Clarity BEV,2014,0.0
+1631,PEV,Honda,Clarity BEV,2015,0.0
+1632,PEV,Honda,Clarity BEV,2016,0.0
+1633,PEV,Honda,Clarity BEV,2017,1111.0
+1634,PEV,Honda,Clarity Plug-in,1999,0.0
+1635,PEV,Honda,Clarity Plug-in,2000,0.0
+1636,PEV,Honda,Clarity Plug-in,2001,0.0
+1637,PEV,Honda,Clarity Plug-in,2002,0.0
+1638,PEV,Honda,Clarity Plug-in,2003,0.0
+1639,PEV,Honda,Clarity Plug-in,2004,0.0
+1640,PEV,Honda,Clarity Plug-in,2005,0.0
+1641,PEV,Honda,Clarity Plug-in,2006,0.0
+1642,PEV,Honda,Clarity Plug-in,2007,0.0
+1643,PEV,Honda,Clarity Plug-in,2008,0.0
+1644,PEV,Honda,Clarity Plug-in,2009,0.0
+1645,PEV,Honda,Clarity Plug-in,2010,0.0
+1646,PEV,Honda,Clarity Plug-in,2011,0.0
+1647,PEV,Honda,Clarity Plug-in,2012,0.0
+1648,PEV,Honda,Clarity Plug-in,2013,0.0
+1649,PEV,Honda,Clarity Plug-in,2014,0.0
+1650,PEV,Honda,Clarity Plug-in,2015,0.0
+1651,PEV,Honda,Clarity Plug-in,2016,0.0
+1652,PEV,Honda,Clarity Plug-in,2017,898.0
+1653,PEV,Honda,Fit EV,1999,0.0
+1654,PEV,Honda,Fit EV,2000,0.0
+1655,PEV,Honda,Fit EV,2001,0.0
+1656,PEV,Honda,Fit EV,2002,0.0
+1657,PEV,Honda,Fit EV,2003,0.0
+1658,PEV,Honda,Fit EV,2004,0.0
+1659,PEV,Honda,Fit EV,2005,0.0
+1660,PEV,Honda,Fit EV,2006,0.0
+1661,PEV,Honda,Fit EV,2007,0.0
+1662,PEV,Honda,Fit EV,2008,0.0
+1663,PEV,Honda,Fit EV,2009,0.0
+1664,PEV,Honda,Fit EV,2010,0.0
+1665,PEV,Honda,Fit EV,2011,0.0
+1666,PEV,Honda,Fit EV,2012,93.0
+1667,PEV,Honda,Fit EV,2013,569.0
+1668,PEV,Honda,Fit EV,2014,407.0
+1669,PEV,Honda,Fit EV,2015,2.0
+1670,PEV,Honda,Fit EV,2016,0.0
+1671,PEV,Honda,Fit EV,2017,0.0
+1672,PEV,Hyundai,Ioniq EV,1999,0.0
+1673,PEV,Hyundai,Ioniq EV,2000,0.0
+1674,PEV,Hyundai,Ioniq EV,2001,0.0
+1675,PEV,Hyundai,Ioniq EV,2002,0.0
+1676,PEV,Hyundai,Ioniq EV,2003,0.0
+1677,PEV,Hyundai,Ioniq EV,2004,0.0
+1678,PEV,Hyundai,Ioniq EV,2005,0.0
+1679,PEV,Hyundai,Ioniq EV,2006,0.0
+1680,PEV,Hyundai,Ioniq EV,2007,0.0
+1681,PEV,Hyundai,Ioniq EV,2008,0.0
+1682,PEV,Hyundai,Ioniq EV,2009,0.0
+1683,PEV,Hyundai,Ioniq EV,2010,0.0
+1684,PEV,Hyundai,Ioniq EV,2011,0.0
+1685,PEV,Hyundai,Ioniq EV,2012,0.0
+1686,PEV,Hyundai,Ioniq EV,2013,0.0
+1687,PEV,Hyundai,Ioniq EV,2014,0.0
+1688,PEV,Hyundai,Ioniq EV,2015,0.0
+1689,PEV,Hyundai,Ioniq EV,2016,0.0
+1690,PEV,Hyundai,Ioniq EV,2017,427.0
+1691,PEV,Hyundai,Sonata Plug-in,1999,0.0
+1692,PEV,Hyundai,Sonata Plug-in,2000,0.0
+1693,PEV,Hyundai,Sonata Plug-in,2001,0.0
+1694,PEV,Hyundai,Sonata Plug-in,2002,0.0
+1695,PEV,Hyundai,Sonata Plug-in,2003,0.0
+1696,PEV,Hyundai,Sonata Plug-in,2004,0.0
+1697,PEV,Hyundai,Sonata Plug-in,2005,0.0
+1698,PEV,Hyundai,Sonata Plug-in,2006,0.0
+1699,PEV,Hyundai,Sonata Plug-in,2007,0.0
+1700,PEV,Hyundai,Sonata Plug-in,2008,0.0
+1701,PEV,Hyundai,Sonata Plug-in,2009,0.0
+1702,PEV,Hyundai,Sonata Plug-in,2010,0.0
+1703,PEV,Hyundai,Sonata Plug-in,2011,0.0
+1704,PEV,Hyundai,Sonata Plug-in,2012,0.0
+1705,PEV,Hyundai,Sonata Plug-in,2013,0.0
+1706,PEV,Hyundai,Sonata Plug-in,2014,0.0
+1707,PEV,Hyundai,Sonata Plug-in,2015,0.0
+1708,PEV,Hyundai,Sonata Plug-in,2016,3000.0
+1709,PEV,Hyundai,Sonata Plug-in,2017,2254.0
+1710,PEV,Kia,Optima Plug-in,1999,0.0
+1711,PEV,Kia,Optima Plug-in,2000,0.0
+1712,PEV,Kia,Optima Plug-in,2001,0.0
+1713,PEV,Kia,Optima Plug-in,2002,0.0
+1714,PEV,Kia,Optima Plug-in,2003,0.0
+1715,PEV,Kia,Optima Plug-in,2004,0.0
+1716,PEV,Kia,Optima Plug-in,2005,0.0
+1717,PEV,Kia,Optima Plug-in,2006,0.0
+1718,PEV,Kia,Optima Plug-in,2007,0.0
+1719,PEV,Kia,Optima Plug-in,2008,0.0
+1720,PEV,Kia,Optima Plug-in,2009,0.0
+1721,PEV,Kia,Optima Plug-in,2010,0.0
+1722,PEV,Kia,Optima Plug-in,2011,0.0
+1723,PEV,Kia,Optima Plug-in,2012,0.0
+1724,PEV,Kia,Optima Plug-in,2013,0.0
+1725,PEV,Kia,Optima Plug-in,2014,0.0
+1726,PEV,Kia,Optima Plug-in,2015,0.0
+1727,PEV,Kia,Optima Plug-in,2016,0.0
+1728,PEV,Kia,Optima Plug-in,2017,1542.0
+1729,PEV,Kia,Soul EV,1999,0.0
+1730,PEV,Kia,Soul EV,2000,0.0
+1731,PEV,Kia,Soul EV,2001,0.0
+1732,PEV,Kia,Soul EV,2002,0.0
+1733,PEV,Kia,Soul EV,2003,0.0
+1734,PEV,Kia,Soul EV,2004,0.0
+1735,PEV,Kia,Soul EV,2005,0.0
+1736,PEV,Kia,Soul EV,2006,0.0
+1737,PEV,Kia,Soul EV,2007,0.0
+1738,PEV,Kia,Soul EV,2008,0.0
+1739,PEV,Kia,Soul EV,2009,0.0
+1740,PEV,Kia,Soul EV,2010,0.0
+1741,PEV,Kia,Soul EV,2011,0.0
+1742,PEV,Kia,Soul EV,2012,0.0
+1743,PEV,Kia,Soul EV,2013,0.0
+1744,PEV,Kia,Soul EV,2014,250.0
+1745,PEV,Kia,Soul EV,2015,1015.0
+1746,PEV,Kia,Soul EV,2016,1728.0
+1747,PEV,Kia,Soul EV,2017,2157.0
+1748,PEV,Mercedes,B-Class Electric,1999,0.0
+1749,PEV,Mercedes,B-Class Electric,2000,0.0
+1750,PEV,Mercedes,B-Class Electric,2001,0.0
+1751,PEV,Mercedes,B-Class Electric,2002,0.0
+1752,PEV,Mercedes,B-Class Electric,2003,0.0
+1753,PEV,Mercedes,B-Class Electric,2004,0.0
+1754,PEV,Mercedes,B-Class Electric,2005,0.0
+1755,PEV,Mercedes,B-Class Electric,2006,0.0
+1756,PEV,Mercedes,B-Class Electric,2007,0.0
+1757,PEV,Mercedes,B-Class Electric,2008,0.0
+1758,PEV,Mercedes,B-Class Electric,2009,0.0
+1759,PEV,Mercedes,B-Class Electric,2010,0.0
+1760,PEV,Mercedes,B-Class Electric,2011,0.0
+1761,PEV,Mercedes,B-Class Electric,2012,0.0
+1762,PEV,Mercedes,B-Class Electric,2013,0.0
+1763,PEV,Mercedes,B-Class Electric,2014,774.0
+1764,PEV,Mercedes,B-Class Electric,2015,1906.0
+1765,PEV,Mercedes,B-Class Electric,2016,632.0
+1766,PEV,Mercedes,B-Class Electric,2017,744.0
+1767,PEV,Mercedes,C350We Plug-in Hybrid,1999,0.0
+1768,PEV,Mercedes,C350We Plug-in Hybrid,2000,0.0
+1769,PEV,Mercedes,C350We Plug-in Hybrid,2001,0.0
+1770,PEV,Mercedes,C350We Plug-in Hybrid,2002,0.0
+1771,PEV,Mercedes,C350We Plug-in Hybrid,2003,0.0
+1772,PEV,Mercedes,C350We Plug-in Hybrid,2004,0.0
+1773,PEV,Mercedes,C350We Plug-in Hybrid,2005,0.0
+1774,PEV,Mercedes,C350We Plug-in Hybrid,2006,0.0
+1775,PEV,Mercedes,C350We Plug-in Hybrid,2007,0.0
+1776,PEV,Mercedes,C350We Plug-in Hybrid,2008,0.0
+1777,PEV,Mercedes,C350We Plug-in Hybrid,2009,0.0
+1778,PEV,Mercedes,C350We Plug-in Hybrid,2010,0.0
+1779,PEV,Mercedes,C350We Plug-in Hybrid,2011,0.0
+1780,PEV,Mercedes,C350We Plug-in Hybrid,2012,0.0
+1781,PEV,Mercedes,C350We Plug-in Hybrid,2013,0.0
+1782,PEV,Mercedes,C350We Plug-in Hybrid,2014,0.0
+1783,PEV,Mercedes,C350We Plug-in Hybrid,2015,0.0
+1784,PEV,Mercedes,C350We Plug-in Hybrid,2016,171.0
+1785,PEV,Mercedes,C350We Plug-in Hybrid,2017,810.0
+1786,PEV,Mercedes,GLE 550e Hybrid,1999,0.0
+1787,PEV,Mercedes,GLE 550e Hybrid,2000,0.0
+1788,PEV,Mercedes,GLE 550e Hybrid,2001,0.0
+1789,PEV,Mercedes,GLE 550e Hybrid,2002,0.0
+1790,PEV,Mercedes,GLE 550e Hybrid,2003,0.0
+1791,PEV,Mercedes,GLE 550e Hybrid,2004,0.0
+1792,PEV,Mercedes,GLE 550e Hybrid,2005,0.0
+1793,PEV,Mercedes,GLE 550e Hybrid,2006,0.0
+1794,PEV,Mercedes,GLE 550e Hybrid,2007,0.0
+1795,PEV,Mercedes,GLE 550e Hybrid,2008,0.0
+1796,PEV,Mercedes,GLE 550e Hybrid,2009,0.0
+1797,PEV,Mercedes,GLE 550e Hybrid,2010,0.0
+1798,PEV,Mercedes,GLE 550e Hybrid,2011,0.0
+1799,PEV,Mercedes,GLE 550e Hybrid,2012,0.0
+1800,PEV,Mercedes,GLE 550e Hybrid,2013,0.0
+1801,PEV,Mercedes,GLE 550e Hybrid,2014,0.0
+1802,PEV,Mercedes,GLE 550e Hybrid,2015,0.0
+1803,PEV,Mercedes,GLE 550e Hybrid,2016,212.0
+1804,PEV,Mercedes,GLE 550e Hybrid,2017,430.0
+1805,PEV,Mercedes,S550 Plug In,1999,0.0
+1806,PEV,Mercedes,S550 Plug In,2000,0.0
+1807,PEV,Mercedes,S550 Plug In,2001,0.0
+1808,PEV,Mercedes,S550 Plug In,2002,0.0
+1809,PEV,Mercedes,S550 Plug In,2003,0.0
+1810,PEV,Mercedes,S550 Plug In,2004,0.0
+1811,PEV,Mercedes,S550 Plug In,2005,0.0
+1812,PEV,Mercedes,S550 Plug In,2006,0.0
+1813,PEV,Mercedes,S550 Plug In,2007,0.0
+1814,PEV,Mercedes,S550 Plug In,2008,0.0
+1815,PEV,Mercedes,S550 Plug In,2009,0.0
+1816,PEV,Mercedes,S550 Plug In,2010,0.0
+1817,PEV,Mercedes,S550 Plug In,2011,0.0
+1818,PEV,Mercedes,S550 Plug In,2012,0.0
+1819,PEV,Mercedes,S550 Plug In,2013,0.0
+1820,PEV,Mercedes,S550 Plug In,2014,0.0
+1821,PEV,Mercedes,S550 Plug In,2015,118.0
+1822,PEV,Mercedes,S550 Plug In,2016,550.0
+1823,PEV,Mercedes,S550 Plug In,2017,583.0
+1824,PEV,Mini,Cooper Countryman Plug In,1999,0.0
+1825,PEV,Mini,Cooper Countryman Plug In,2000,0.0
+1826,PEV,Mini,Cooper Countryman Plug In,2001,0.0
+1827,PEV,Mini,Cooper Countryman Plug In,2002,0.0
+1828,PEV,Mini,Cooper Countryman Plug In,2003,0.0
+1829,PEV,Mini,Cooper Countryman Plug In,2004,0.0
+1830,PEV,Mini,Cooper Countryman Plug In,2005,0.0
+1831,PEV,Mini,Cooper Countryman Plug In,2006,0.0
+1832,PEV,Mini,Cooper Countryman Plug In,2007,0.0
+1833,PEV,Mini,Cooper Countryman Plug In,2008,0.0
+1834,PEV,Mini,Cooper Countryman Plug In,2009,0.0
+1835,PEV,Mini,Cooper Countryman Plug In,2010,0.0
+1836,PEV,Mini,Cooper Countryman Plug In,2011,0.0
+1837,PEV,Mini,Cooper Countryman Plug In,2012,0.0
+1838,PEV,Mini,Cooper Countryman Plug In,2013,0.0
+1839,PEV,Mini,Cooper Countryman Plug In,2014,0.0
+1840,PEV,Mini,Cooper Countryman Plug In,2015,0.0
+1841,PEV,Mini,Cooper Countryman Plug In,2016,0.0
+1842,PEV,Mini,Cooper Countryman Plug In,2017,475.0
+1843,PEV,Mitsubishi,i-MiEV,1999,0.0
+1844,PEV,Mitsubishi,i-MiEV,2000,0.0
+1845,PEV,Mitsubishi,i-MiEV,2001,0.0
+1846,PEV,Mitsubishi,i-MiEV,2002,0.0
+1847,PEV,Mitsubishi,i-MiEV,2003,0.0
+1848,PEV,Mitsubishi,i-MiEV,2004,0.0
+1849,PEV,Mitsubishi,i-MiEV,2005,0.0
+1850,PEV,Mitsubishi,i-MiEV,2006,0.0
+1851,PEV,Mitsubishi,i-MiEV,2007,0.0
+1852,PEV,Mitsubishi,i-MiEV,2008,0.0
+1853,PEV,Mitsubishi,i-MiEV,2009,0.0
+1854,PEV,Mitsubishi,i-MiEV,2010,0.0
+1855,PEV,Mitsubishi,i-MiEV,2011,76.0
+1856,PEV,Mitsubishi,i-MiEV,2012,588.0
+1857,PEV,Mitsubishi,i-MiEV,2013,1029.0
+1858,PEV,Mitsubishi,i-MiEV,2014,196.0
+1859,PEV,Mitsubishi,i-MiEV,2015,115.0
+1860,PEV,Mitsubishi,i-MiEV,2016,94.0
+1861,PEV,Mitsubishi,i-MiEV,2017,6.0
+1862,PEV,Nissan,LEAF,1999,0.0
+1863,PEV,Nissan,LEAF,2000,0.0
+1864,PEV,Nissan,LEAF,2001,0.0
+1865,PEV,Nissan,LEAF,2002,0.0
+1866,PEV,Nissan,LEAF,2003,0.0
+1867,PEV,Nissan,LEAF,2004,0.0
+1868,PEV,Nissan,LEAF,2005,0.0
+1869,PEV,Nissan,LEAF,2006,0.0
+1870,PEV,Nissan,LEAF,2007,0.0
+1871,PEV,Nissan,LEAF,2008,0.0
+1872,PEV,Nissan,LEAF,2009,0.0
+1873,PEV,Nissan,LEAF,2010,0.0
+1874,PEV,Nissan,LEAF,2011,9674.0
+1875,PEV,Nissan,LEAF,2012,9819.0
+1876,PEV,Nissan,LEAF,2013,22610.0
+1877,PEV,Nissan,LEAF,2014,30200.0
+1878,PEV,Nissan,LEAF,2015,17269.0
+1879,PEV,Nissan,LEAF,2016,14006.0
+1880,PEV,Nissan,LEAF,2017,11230.0
+1881,PEV,Porsche,Cayenne S E-Hybrid,1999,0.0
+1882,PEV,Porsche,Cayenne S E-Hybrid,2000,0.0
+1883,PEV,Porsche,Cayenne S E-Hybrid,2001,0.0
+1884,PEV,Porsche,Cayenne S E-Hybrid,2002,0.0
+1885,PEV,Porsche,Cayenne S E-Hybrid,2003,0.0
+1886,PEV,Porsche,Cayenne S E-Hybrid,2004,0.0
+1887,PEV,Porsche,Cayenne S E-Hybrid,2005,0.0
+1888,PEV,Porsche,Cayenne S E-Hybrid,2006,0.0
+1889,PEV,Porsche,Cayenne S E-Hybrid,2007,0.0
+1890,PEV,Porsche,Cayenne S E-Hybrid,2008,0.0
+1891,PEV,Porsche,Cayenne S E-Hybrid,2009,0.0
+1892,PEV,Porsche,Cayenne S E-Hybrid,2010,0.0
+1893,PEV,Porsche,Cayenne S E-Hybrid,2011,0.0
+1894,PEV,Porsche,Cayenne S E-Hybrid,2012,0.0
+1895,PEV,Porsche,Cayenne S E-Hybrid,2013,0.0
+1896,PEV,Porsche,Cayenne S E-Hybrid,2014,112.0
+1897,PEV,Porsche,Cayenne S E-Hybrid,2015,1163.0
+1898,PEV,Porsche,Cayenne S E-Hybrid,2016,2111.0
+1899,PEV,Porsche,Cayenne S E-Hybrid,2017,1574.0
+1900,PEV,Porsche,Panamera S E-Hybrid,1999,0.0
+1901,PEV,Porsche,Panamera S E-Hybrid,2000,0.0
+1902,PEV,Porsche,Panamera S E-Hybrid,2001,0.0
+1903,PEV,Porsche,Panamera S E-Hybrid,2002,0.0
+1904,PEV,Porsche,Panamera S E-Hybrid,2003,0.0
+1905,PEV,Porsche,Panamera S E-Hybrid,2004,0.0
+1906,PEV,Porsche,Panamera S E-Hybrid,2005,0.0
+1907,PEV,Porsche,Panamera S E-Hybrid,2006,0.0
+1908,PEV,Porsche,Panamera S E-Hybrid,2007,0.0
+1909,PEV,Porsche,Panamera S E-Hybrid,2008,0.0
+1910,PEV,Porsche,Panamera S E-Hybrid,2009,0.0
+1911,PEV,Porsche,Panamera S E-Hybrid,2010,0.0
+1912,PEV,Porsche,Panamera S E-Hybrid,2011,0.0
+1913,PEV,Porsche,Panamera S E-Hybrid,2012,0.0
+1914,PEV,Porsche,Panamera S E-Hybrid,2013,51.0
+1915,PEV,Porsche,Panamera S E-Hybrid,2014,879.0
+1916,PEV,Porsche,Panamera S E-Hybrid,2015,407.0
+1917,PEV,Porsche,Panamera S E-Hybrid,2016,393.0
+1918,PEV,Porsche,Panamera S E-Hybrid,2017,18.0
+1919,PEV,Smart,ED,1999,0.0
+1920,PEV,Smart,ED,2000,0.0
+1921,PEV,Smart,ED,2001,0.0
+1922,PEV,Smart,ED,2002,0.0
+1923,PEV,Smart,ED,2003,0.0
+1924,PEV,Smart,ED,2004,0.0
+1925,PEV,Smart,ED,2005,0.0
+1926,PEV,Smart,ED,2006,0.0
+1927,PEV,Smart,ED,2007,0.0
+1928,PEV,Smart,ED,2008,0.0
+1929,PEV,Smart,ED,2009,0.0
+1930,PEV,Smart,ED,2010,0.0
+1931,PEV,Smart,ED,2011,310.0
+1932,PEV,Smart,ED,2012,2.0
+1933,PEV,Smart,ED,2013,0.0
+1934,PEV,Smart,ED,2014,0.0
+1935,PEV,Smart,ED,2015,0.0
+1936,PEV,Smart,ED,2016,0.0
+1937,PEV,Smart,ED,2017,0.0
+1938,PEV,Smart,for Two EV,1999,0.0
+1939,PEV,Smart,for Two EV,2000,0.0
+1940,PEV,Smart,for Two EV,2001,0.0
+1941,PEV,Smart,for Two EV,2002,0.0
+1942,PEV,Smart,for Two EV,2003,0.0
+1943,PEV,Smart,for Two EV,2004,0.0
+1944,PEV,Smart,for Two EV,2005,0.0
+1945,PEV,Smart,for Two EV,2006,0.0
+1946,PEV,Smart,for Two EV,2007,0.0
+1947,PEV,Smart,for Two EV,2008,0.0
+1948,PEV,Smart,for Two EV,2009,0.0
+1949,PEV,Smart,for Two EV,2010,0.0
+1950,PEV,Smart,for Two EV,2011,0.0
+1951,PEV,Smart,for Two EV,2012,137.0
+1952,PEV,Smart,for Two EV,2013,923.0
+1953,PEV,Smart,for Two EV,2014,2594.0
+1954,PEV,Smart,for Two EV,2015,1387.0
+1955,PEV,Smart,for Two EV,2016,657.0
+1956,PEV,Smart,for Two EV,2017,543.0
+1957,PEV,Tesla,Model 3,1999,0.0
+1958,PEV,Tesla,Model 3,2000,0.0
+1959,PEV,Tesla,Model 3,2001,0.0
+1960,PEV,Tesla,Model 3,2002,0.0
+1961,PEV,Tesla,Model 3,2003,0.0
+1962,PEV,Tesla,Model 3,2004,0.0
+1963,PEV,Tesla,Model 3,2005,0.0
+1964,PEV,Tesla,Model 3,2006,0.0
+1965,PEV,Tesla,Model 3,2007,0.0
+1966,PEV,Tesla,Model 3,2008,0.0
+1967,PEV,Tesla,Model 3,2009,0.0
+1968,PEV,Tesla,Model 3,2010,0.0
+1969,PEV,Tesla,Model 3,2011,0.0
+1970,PEV,Tesla,Model 3,2012,0.0
+1971,PEV,Tesla,Model 3,2013,0.0
+1972,PEV,Tesla,Model 3,2014,0.0
+1973,PEV,Tesla,Model 3,2015,0.0
+1974,PEV,Tesla,Model 3,2016,0.0
+1975,PEV,Tesla,Model 3,2017,1770.0
+1976,PEV,Tesla,Model S,1999,0.0
+1977,PEV,Tesla,Model S,2000,0.0
+1978,PEV,Tesla,Model S,2001,0.0
+1979,PEV,Tesla,Model S,2002,0.0
+1980,PEV,Tesla,Model S,2003,0.0
+1981,PEV,Tesla,Model S,2004,0.0
+1982,PEV,Tesla,Model S,2005,0.0
+1983,PEV,Tesla,Model S,2006,0.0
+1984,PEV,Tesla,Model S,2007,0.0
+1985,PEV,Tesla,Model S,2008,0.0
+1986,PEV,Tesla,Model S,2009,0.0
+1987,PEV,Tesla,Model S,2010,0.0
+1988,PEV,Tesla,Model S,2011,0.0
+1989,PEV,Tesla,Model S,2012,2171.0
+1990,PEV,Tesla,Model S,2013,19000.0
+1991,PEV,Tesla,Model S,2014,16750.0
+1992,PEV,Tesla,Model S,2015,26200.0
+1993,PEV,Tesla,Model S,2016,30200.0
+1994,PEV,Tesla,Model S,2017,26500.0
+1995,PEV,Tesla,Model X,1999,0.0
+1996,PEV,Tesla,Model X,2000,0.0
+1997,PEV,Tesla,Model X,2001,0.0
+1998,PEV,Tesla,Model X,2002,0.0
+1999,PEV,Tesla,Model X,2003,0.0
+2000,PEV,Tesla,Model X,2004,0.0
+2001,PEV,Tesla,Model X,2005,0.0
+2002,PEV,Tesla,Model X,2006,0.0
+2003,PEV,Tesla,Model X,2007,0.0
+2004,PEV,Tesla,Model X,2008,0.0
+2005,PEV,Tesla,Model X,2009,0.0
+2006,PEV,Tesla,Model X,2010,0.0
+2007,PEV,Tesla,Model X,2011,0.0
+2008,PEV,Tesla,Model X,2012,0.0
+2009,PEV,Tesla,Model X,2013,0.0
+2010,PEV,Tesla,Model X,2014,0.0
+2011,PEV,Tesla,Model X,2015,208.0
+2012,PEV,Tesla,Model X,2016,19600.0
+2013,PEV,Tesla,Model X,2017,21700.0
+2014,PEV,Toyota,Prius Prime,1999,0.0
+2015,PEV,Toyota,Prius Prime,2000,0.0
+2016,PEV,Toyota,Prius Prime,2001,0.0
+2017,PEV,Toyota,Prius Prime,2002,0.0
+2018,PEV,Toyota,Prius Prime,2003,0.0
+2019,PEV,Toyota,Prius Prime,2004,0.0
+2020,PEV,Toyota,Prius Prime,2005,0.0
+2021,PEV,Toyota,Prius Prime,2006,0.0
+2022,PEV,Toyota,Prius Prime,2007,0.0
+2023,PEV,Toyota,Prius Prime,2008,0.0
+2024,PEV,Toyota,Prius Prime,2009,0.0
+2025,PEV,Toyota,Prius Prime,2010,0.0
+2026,PEV,Toyota,Prius Prime,2011,0.0
+2027,PEV,Toyota,Prius Prime,2012,12749.0
+2028,PEV,Toyota,Prius Prime,2013,12088.0
+2029,PEV,Toyota,Prius Prime,2014,13264.0
+2030,PEV,Toyota,Prius Prime,2015,4191.0
+2031,PEV,Toyota,Prius Prime,2016,2474.0
+2032,PEV,Toyota,Prius Prime,2017,20936.0
+2033,PEV,Toyota,RAV4 EV,1999,0.0
+2034,PEV,Toyota,RAV4 EV,2000,0.0
+2035,PEV,Toyota,RAV4 EV,2001,0.0
+2036,PEV,Toyota,RAV4 EV,2002,0.0
+2037,PEV,Toyota,RAV4 EV,2003,0.0
+2038,PEV,Toyota,RAV4 EV,2004,0.0
+2039,PEV,Toyota,RAV4 EV,2005,0.0
+2040,PEV,Toyota,RAV4 EV,2006,0.0
+2041,PEV,Toyota,RAV4 EV,2007,0.0
+2042,PEV,Toyota,RAV4 EV,2008,0.0
+2043,PEV,Toyota,RAV4 EV,2009,0.0
+2044,PEV,Toyota,RAV4 EV,2010,0.0
+2045,PEV,Toyota,RAV4 EV,2011,0.0
+2046,PEV,Toyota,RAV4 EV,2012,192.0
+2047,PEV,Toyota,RAV4 EV,2013,1005.0
+2048,PEV,Toyota,RAV4 EV,2014,1184.0
+2049,PEV,Toyota,RAV4 EV,2015,18.0
+2050,PEV,Toyota,RAV4 EV,2016,0.0
+2051,PEV,Toyota,RAV4 EV,2017,0.0
+2052,PEV,VW,e-Golf,1999,0.0
+2053,PEV,VW,e-Golf,2000,0.0
+2054,PEV,VW,e-Golf,2001,0.0
+2055,PEV,VW,e-Golf,2002,0.0
+2056,PEV,VW,e-Golf,2003,0.0
+2057,PEV,VW,e-Golf,2004,0.0
+2058,PEV,VW,e-Golf,2005,0.0
+2059,PEV,VW,e-Golf,2006,0.0
+2060,PEV,VW,e-Golf,2007,0.0
+2061,PEV,VW,e-Golf,2008,0.0
+2062,PEV,VW,e-Golf,2009,0.0
+2063,PEV,VW,e-Golf,2010,0.0
+2064,PEV,VW,e-Golf,2011,0.0
+2065,PEV,VW,e-Golf,2012,0.0
+2066,PEV,VW,e-Golf,2013,0.0
+2067,PEV,VW,e-Golf,2014,357.0
+2068,PEV,VW,e-Golf,2015,4232.0
+2069,PEV,VW,e-Golf,2016,3937.0
+2070,PEV,VW,e-Golf,2017,3534.0
+2071,PEV,Volvo,S90 Plug In,1999,0.0
+2072,PEV,Volvo,S90 Plug In,2000,0.0
+2073,PEV,Volvo,S90 Plug In,2001,0.0
+2074,PEV,Volvo,S90 Plug In,2002,0.0
+2075,PEV,Volvo,S90 Plug In,2003,0.0
+2076,PEV,Volvo,S90 Plug In,2004,0.0
+2077,PEV,Volvo,S90 Plug In,2005,0.0
+2078,PEV,Volvo,S90 Plug In,2006,0.0
+2079,PEV,Volvo,S90 Plug In,2007,0.0
+2080,PEV,Volvo,S90 Plug In,2008,0.0
+2081,PEV,Volvo,S90 Plug In,2009,0.0
+2082,PEV,Volvo,S90 Plug In,2010,0.0
+2083,PEV,Volvo,S90 Plug In,2011,0.0
+2084,PEV,Volvo,S90 Plug In,2012,0.0
+2085,PEV,Volvo,S90 Plug In,2013,0.0
+2086,PEV,Volvo,S90 Plug In,2014,0.0
+2087,PEV,Volvo,S90 Plug In,2015,0.0
+2088,PEV,Volvo,S90 Plug In,2016,0.0
+2089,PEV,Volvo,S90 Plug In,2017,112.0
+2090,PEV,Volvo,XC60,1999,0.0
+2091,PEV,Volvo,XC60,2000,0.0
+2092,PEV,Volvo,XC60,2001,0.0
+2093,PEV,Volvo,XC60,2002,0.0
+2094,PEV,Volvo,XC60,2003,0.0
+2095,PEV,Volvo,XC60,2004,0.0
+2096,PEV,Volvo,XC60,2005,0.0
+2097,PEV,Volvo,XC60,2006,0.0
+2098,PEV,Volvo,XC60,2007,0.0
+2099,PEV,Volvo,XC60,2008,0.0
+2100,PEV,Volvo,XC60,2009,0.0
+2101,PEV,Volvo,XC60,2010,0.0
+2102,PEV,Volvo,XC60,2011,0.0
+2103,PEV,Volvo,XC60,2012,0.0
+2104,PEV,Volvo,XC60,2013,0.0
+2105,PEV,Volvo,XC60,2014,0.0
+2106,PEV,Volvo,XC60,2015,0.0
+2107,PEV,Volvo,XC60,2016,0.0
+2108,PEV,Volvo,XC60,2017,518.0
+2109,PEV,Volvo,XC90,1999,0.0
+2110,PEV,Volvo,XC90,2000,0.0
+2111,PEV,Volvo,XC90,2001,0.0
+2112,PEV,Volvo,XC90,2002,0.0
+2113,PEV,Volvo,XC90,2003,0.0
+2114,PEV,Volvo,XC90,2004,0.0
+2115,PEV,Volvo,XC90,2005,0.0
+2116,PEV,Volvo,XC90,2006,0.0
+2117,PEV,Volvo,XC90,2007,0.0
+2118,PEV,Volvo,XC90,2008,0.0
+2119,PEV,Volvo,XC90,2009,0.0
+2120,PEV,Volvo,XC90,2010,0.0
+2121,PEV,Volvo,XC90,2011,0.0
+2122,PEV,Volvo,XC90,2012,0.0
+2123,PEV,Volvo,XC90,2013,0.0
+2124,PEV,Volvo,XC90,2014,0.0
+2125,PEV,Volvo,XC90,2015,86.0
+2126,PEV,Volvo,XC90,2016,2015.0
+2127,PEV,Volvo,XC90,2017,2196.0
