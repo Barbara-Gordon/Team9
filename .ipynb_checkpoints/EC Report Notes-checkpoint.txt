@@ -1,0 +1,64 @@
+The market share of electric cars and factors that effect adoption
+
+
+What motivated 
+- i just bought a car
+- range anxiety and incentives
+
+Questions asked - 
+Does the expansion of electric charging infrastructure have an impact on the adoption of electric vehicles?
+- range anxiety ("I don't want to buy a car that only goes x number of miles and then I'm stuck)
+- Electric battery consumption varies widely by make/model, but also by external factors
+Do incentives have an impact on the adoption of electric vehicles?
+- Where are all these charging stations coming from?
+- Do people actually care about tax incentives and perks?
+
+
+
+National Renewable Energy Laboratory (NREL) (Federal Lab dedicated to research/development of renewable energy tech)
+
+Question
+Does more car makers getting into the electric vehicle game effect overall sales? 
+Does the trend in vehicles debut map to other metrics of adoption (incentives)
+What
+Spreadsheet containing data of sales of different maker/model cars by years and type
+
+Cleaning
+Used stack and unstack to move columns of sales data to one column. 
+Found "Debut Year" - First Year a model was sold to show enthusiasm in car makers
+Used pandas to plot PEV and HEV vehicles side by side.
+
+Dip in 2015 - Could be explained by tax incentives and leasing options. Tax incentives are only available
+on new cars. Leases are generally 3 years, and then those cars hit the used market. We don't
+have that data, but it could be a factor in the cycles of car buying
+
+Question
+Does the expansion of electric charging infrastructure have an impact on the adoption of electric vehicles?
+What
+APIs - Alternative Fuel Stations
+Cleaning -
+cycled through to pull relevant fields - params only electric charging
+{'api_key' : NREL_api, 'fuel_type' : 'ELEC', 'access': 'all','state': ''}
+ (State, Lat/Lng, Date Opened, Access Type)
+Cleaned Date field to show year only(orig in string)
+
+
+Question
+Do incentives have an impact on the adoption of electric vehicles?
+API -Transportation Laws and Incentives
+Cleaning - 
+Pulled API and cycled through adding relevant fields to lists, then Data Frame.
+technology listed under Electric, Plug-Electric and Hybrid Electric
+and must contain incentives for individuals.
+Fields - (title, type, state, enacted date, amended date, sig update date)
+Not every Incentive had an enacted date - dropped rows no dates (thresh =4)
+Cycled through dates to find oldest and went with that.
+Dropped Federal and DC incentives for map against stations
+
+Electric Charging Stations are represented in every state - but not every state had incentives that included individuals
+
+Post morten - 
+would like to see more detail on typesof incentives (tax vs etc) to see
+which ones really matter
+used car sales data - track peaks and valleys to leasing cycles
+
