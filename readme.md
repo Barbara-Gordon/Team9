@@ -1,8 +1,4 @@
-this is a read me file fools
-Our project is going to be about Electric Vehicles.
-One thing that we would like to see is a comparison of the percent market share that electric cars hold now versus a few years ago.(Daniel)
-Our project is going to be about Electric Vehicles. 
-
-Question 1: With the growth in purchases of electric vehicles, have pollution levels dropped? (Assumed negative correlation)
-
-Question 2: What are the current problems that charging station face? 
+Project - Team Green
+Goal - To explore trends related to the increase in sales of Hybrid and Plug-in Electric Vehicles. 
+Internal Market Factors - "hype" surrounding certain brands of electric vehicles. 
+External Market Factors - Gas prices, availablity of electric charging stations, Federal and State Incentives, and pollution levels. 
